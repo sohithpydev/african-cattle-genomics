@@ -1,0 +1,21 @@
+Sample_or_Variant_ID	Type	Reason	Stage	Action
+Bashi10	Sample	high relatedness (PHI=0.499535)	Provider_Pre_QC	Excluded
+Bashi2	Sample	high relatedness (PHI=0.499287)	Provider_Pre_QC	Excluded
+Bashi5	Sample	high relatedness (PHI=0.499438)	Provider_Pre_QC	Excluded
+Inyambo6	Sample	high relatedness (PHI=0.499315)	Provider_Pre_QC	Excluded
+Benshangul_38	Sample	high proportion of missing variants (PHI=0.233277)	Provider_Pre_QC	Excluded
+Benshangul_39	Sample	high proportion of missing variants (PHI=0.217967)	Provider_Pre_QC	Excluded
+TD019167	Sample	high relatedness (PHI=0.498741)	Provider_Pre_QC	Excluded
+KTKNS4.09	Sample	high relatedness (PHI=0.5)	Provider_Pre_QC	Excluded
+KTKNS4.10	Sample	high relatedness (PHI=0.5)	Provider_Pre_QC	Excluded
+KTKNS4.11	Sample	high relatedness (PHI=0.5)	Provider_Pre_QC	Excluded
+KTKNS4.12	Sample	high relatedness (PHI=0.5)	Provider_Pre_QC	Excluded
+BF010901	Sample	high relatedness (PHI=0.499547)	Provider_Pre_QC	Excluded
+SN010112	Sample	high relatedness (PHI=0.49921)	Provider_Pre_QC	Excluded
+SN014668	Sample	high relatedness (PHI=0.499475)	Provider_Pre_QC	Excluded
+SN015275	Sample	high relatedness (PHI=0.499536)	Provider_Pre_QC	Excluded
+ADGX1005311	Sample	high relatedness (PHI=0.5)	Provider_Pre_QC	Excluded
+ADGX1005313	Sample	high relatedness (PHI=0.5)	Provider_Pre_QC	Excluded
+AZWX1005338	Sample	high relatedness (PHI=0.5)	Provider_Pre_QC	Excluded
+WDRX1005324	Sample	high relatedness (PHI=0.5)	Provider_Pre_QC	Excluded
+High_Missingness_Variants	Variant_Batch	Missing rate > 0.10 (N=2836)	Variant_QC	Excluded

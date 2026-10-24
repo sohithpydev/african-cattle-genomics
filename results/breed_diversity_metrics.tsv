@@ -1,0 +1,37 @@
+Breed	Population	Lineage	Country	Sample_Size_N	Mean_Ho	Mean_He	FIS_Heterozygosity_Deficiency
+Ndama	West African Taurine	African Taurine	Guinea	140	0.249	0.2656	0.0625
+East Africa Shorthorn Zebu	East African Zebu	African Zebu	Kenya	113	0.3093	0.3139	0.0146
+Kuri	Central African Admixed	Sanga / Zenga (Admixed)	Nigeria	73	0.3217	0.3244	0.0084
+Toupouri	Central African Zebu	Sanga / Zenga (Admixed)	Chad	70	0.3165	0.3175	0.0029
+Ethiopia Boran	East African Zebu	African Zebu	Ethiopia	47	0.2966	0.2937	-0.0098
+Baggara	East African Zebu	African Zebu	Sudan	38	0.3144	0.3136	-0.0027
+Kenana	East African Zebu	African Zebu	Sudan	30	0.304	0.3034	-0.002
+Butana	East African Zebu	African Zebu	Sudan	30	0.2998	0.3028	0.01
+Inkungu	East African Admixed	Sanga / Zenga (Admixed)	Rwanda	29	0.3332	0.3258	-0.0226
+Inyambo	East African Admixed	Sanga / Zenga (Admixed)	Rwanda	28	0.3124	0.3099	-0.0079
+Inkuku	East African Admixed	Sanga / Zenga (Admixed)	Rwanda	27	0.307	0.2947	-0.042
+Ankole	East African Admixed	Sanga / Zenga (Admixed)	Uganda	25	0.3112	0.3063	-0.0161
+Freisein Bunaji	West African Admixed	Sanga / Zenga (Admixed)	Nigeria	24	0.3985	0.3543	-0.1248
+Orma Boran	East African Zebu	African Zebu	Kenya	23	0.2948	0.2901	-0.016
+Bunaji	West African Zebu	African Zebu	Nigeria	23	0.3091	0.3135	0.0142
+Nganda	East African Zebu	Sanga / Zenga (Admixed)	Uganda	23	0.331	0.3168	-0.0446
+Adamawa Gudali	West African Zebu	African Zebu	Nigeria	23	0.3152	0.305	-0.0332
+Red Bororo	West African Zebu	African Zebu	Nigeria	22	0.3071	0.3065	-0.002
+Improved Boran	East African Zebu	African Zebu	Kenya	21	0.3061	0.2989	-0.0242
+Sokoto Gudali	West African Zebu	African Zebu	Nigeria	21	0.3181	0.3124	-0.0183
+Sheko	East African Admixed	Sanga / Zenga (Admixed)	Ethiopia	18	0.3209	0.3104	-0.0339
+Baoule	West African Taurine	African Taurine	Burkina Faso	18	0.2672	0.2806	0.0477
+Karamajong Zebu	East African Zebu	African Zebu	Uganda	16	0.3065	0.2982	-0.028
+Zebu Maure	West African Zebu	African Zebu	Senegal	15	0.3285	0.3219	-0.0206
+Sahiwal	East African Zebu	African Zebu	Uganda	13	0.3135	0.2995	-0.0468
+Muturu	West African Taurine	African Taurine	Nigeria	12	0.2077	0.2011	-0.0329
+Serere Zebu	East African Zebu	African Zebu	Uganda	12	0.3114	0.2916	-0.0679
+Yakanaji	West African Zebu	African Zebu	Nigeria	12	0.3111	0.2926	-0.0633
+Inkoromoijo	East African Admixed	Sanga / Zenga (Admixed)	Rwanda	10	0.3164	0.301	-0.0512
+Keteku	West African Admixed	Sanga / Zenga (Admixed)	Nigeria	9	0.3277	0.3023	-0.084
+Zebu Gobra	West African Zebu	African Zebu	Senegal	8	0.3141	0.3036	-0.0346
+Bashi	East African Admixed	Sanga / Zenga (Admixed)	Rwanda	7	0.3669	0.3316	-0.1064
+Wadara	West African Zebu	African Zebu	Nigeria	2	0.3176		0.0
+Gourounsi	West African Admixed	Sanga / Zenga (Admixed)	Burkina Faso	1	0.3196		0.0
+Djakkore	West African Admixed	Sanga / Zenga (Admixed)	Senegal	1	0.2812		0.0
+Azawak	West African Zebu	African Zebu	Nigeria	1	0.2988		0.0

@@ -1,0 +1,1083 @@
+S/NO	VCF_ID	Population	Breed	INDV3	SOURCE	F_MISS	QC	Country_of_origin	Country_code	Exclusion_Reason	Study_Cohort
+345	SU019201	East African Zebu	Butana	SUD-Butana30	GRRFAC	0.00333866	PASSED	Sudan	SUD	None	INCLUDED
+346	SU019201_13A	East African Zebu	Butana	SUD-Butana62	GRRFAC	0.00157415	PASSED	Sudan	SUD	None	INCLUDED
+347	SU019501	East African Zebu	Butana	SUD-Butana31	GRRFAC	0.00108771	PASSED	Sudan	SUD	None	INCLUDED
+348	SU019501_13B	East African Zebu	Butana	SUD-Butana63	GRRFAC	0.0042481	PASSED	Sudan	SUD	None	INCLUDED
+349	SU019701	East African Zebu	Butana	SUD-Butana64	GRRFAC	0.00114965	PASSED	Sudan	SUD	None	INCLUDED
+350	SU039104	East African Zebu	Kenana	SUD-Kenana22	GRRFAC	0.0017645	PASSED	Sudan	SUD	None	INCLUDED
+351	SU039111	East African Zebu	Kenana	SUD-Kenana56	GRRFAC	0.00126144	PASSED	Sudan	SUD	None	INCLUDED
+352	SU039114	East African Zebu	Kenana	SUD-Kenana24	GRRFAC	0.00148049	PASSED	Sudan	SUD	None	INCLUDED
+353	SU039118	East African Zebu	Kenana	SUD-Kenana57	GRRFAC	0.00643409	PASSED	Sudan	SUD	None	INCLUDED
+354	SU040101	East African Zebu	Kenana	SUD-Kenana58	GRRFAC	0.00124633	PASSED	Sudan	SUD	None	INCLUDED
+355	SU059104	East African Zebu	Baggara	SUD-Baggara20	GRRFAC	0.00167688	PASSED	Sudan	SUD	None	INCLUDED
+356	SU059202	East African Zebu	Baggara	SUD-Baggara21	GRRFAC	0.00122367	PASSED	Sudan	SUD	None	INCLUDED
+357	SU059206	East African Zebu	Baggara	SUD-Baggara10	GRRFAC	0.00258028	PASSED	Sudan	SUD	None	INCLUDED
+358	SU059209	East African Zebu	Baggara	SUD-Baggara22	GRRFAC	0.00132489	PASSED	Sudan	SUD	None	INCLUDED
+359	SU059214	East African Zebu	Baggara	SUD-Baggara23	GRRFAC	0.0014956	PASSED	Sudan	SUD	None	INCLUDED
+360	SU059218	East African Zebu	Baggara	SUD-Baggara11	GRRFAC	0.0016225	PASSED	Sudan	SUD	None	INCLUDED
+361	SU059223	East African Zebu	Baggara	SUD-Baggara24	GRRFAC	0.00119195	PASSED	Sudan	SUD	None	INCLUDED
+362	SU059224	East African Zebu	Baggara	SUD-Baggara25	GRRFAC	0.00159379	PASSED	Sudan	SUD	None	INCLUDED
+363	SU059229	East African Zebu	Baggara	SUD-Baggara26	GRRFAC	0.00160286	PASSED	Sudan	SUD	None	INCLUDED
+364	SU059233	East African Zebu	Baggara	SUD-Baggara27	GRRFAC	0.00699154	PASSED	Sudan	SUD	None	INCLUDED
+365	SU059236	East African Zebu	Baggara	SUD-Baggara12	GRRFAC	0.0029353	PASSED	Sudan	SUD	None	INCLUDED
+366	SU059237	East African Zebu	Baggara	SUD-Baggara28	GRRFAC	0.00175997	PASSED	Sudan	SUD	None	INCLUDED
+367	SU059239	East African Zebu	Baggara	SUD-Baggara29	GRRFAC	0.00222074	PASSED	Sudan	SUD	None	INCLUDED
+368	SU059252	East African Zebu	Baggara	SUD-Baggara30	GRRFAC	0.00134604	PASSED	Sudan	SUD	None	INCLUDED
+369	SU059253	East African Zebu	Baggara	SUD-Baggara31	GRRFAC	0.00167235	PASSED	Sudan	SUD	None	INCLUDED
+370	SU059258	East African Zebu	Baggara	SUD-Baggara32	GRRFAC	0.0010167	PASSED	Sudan	SUD	None	INCLUDED
+371	SU059264	East African Zebu	Baggara	SUD-Baggara13	GRRFAC	0.00153488	PASSED	Sudan	SUD	None	INCLUDED
+372	SU059266	East African Zebu	Baggara	SUD-Baggara33	GRRFAC	0.00136417	PASSED	Sudan	SUD	None	INCLUDED
+373	SU059269	East African Zebu	Baggara	SUD-Baggara14	GRRFAC	0.00102426	PASSED	Sudan	SUD	None	INCLUDED
+374	SU059301	East African Zebu	Baggara	SUD-Baggara34	GRRFAC	0.00132338	PASSED	Sudan	SUD	None	INCLUDED
+375	SU059304	East African Zebu	Baggara	SUD-Baggara15	GRRFAC	0.0340966	PASSED	Sudan	SUD	None	INCLUDED
+376	SU059308	East African Zebu	Baggara	SUD-Baggara35	GRRFAC	0.00119497	PASSED	Sudan	SUD	None	INCLUDED
+377	SU059312	East African Zebu	Baggara	SUD-Baggara36	GRRFAC	0.00132187	PASSED	Sudan	SUD	None	INCLUDED
+378	SU059316	East African Zebu	Baggara	SUD-Baggara37	GRRFAC	0.00115267	PASSED	Sudan	SUD	None	INCLUDED
+379	SU059320	East African Zebu	Baggara	SUD-Baggara16	GRRFAC	0.00115418	PASSED	Sudan	SUD	None	INCLUDED
+380	SU059324	East African Zebu	Baggara	SUD-Baggara38	GRRFAC	0.0023008	PASSED	Sudan	SUD	None	INCLUDED
+381	SU059328	East African Zebu	Baggara	SUD-Baggara39	GRRFAC	0.00158322	PASSED	Sudan	SUD	None	INCLUDED
+382	SU059331	East African Zebu	Baggara	SUD-Baggara40	GRRFAC	0.00136568	PASSED	Sudan	SUD	None	INCLUDED
+383	SU059333	East African Zebu	Baggara	SUD-Baggara41	GRRFAC	0.00145632	PASSED	Sudan	SUD	None	INCLUDED
+384	SU059336	East African Zebu	Baggara	SUD-Baggara17	GRRFAC	0.00244734	PASSED	Sudan	SUD	None	INCLUDED
+385	SU059338	East African Zebu	Baggara	SUD-Baggara42	GRRFAC	0.00107864	PASSED	Sudan	SUD	None	INCLUDED
+386	SU059342	East African Zebu	Baggara	SUD-Baggara18	GRRFAC	0.138793	PASSED	Sudan	SUD	None	INCLUDED
+387	SU059346	East African Zebu	Baggara	SUD-Baggara43	GRRFAC	0.00278272	PASSED	Sudan	SUD	None	INCLUDED
+388	SU059350	East African Zebu	Baggara	SUD-Baggara44	GRRFAC	0.00154394	PASSED	Sudan	SUD	None	INCLUDED
+389	SU059353	East African Zebu	Baggara	SUD-Baggara45	GRRFAC	0.00187781	PASSED	Sudan	SUD	None	INCLUDED
+390	SU059359	East African Zebu	Baggara	SUD-Baggara46	GRRFAC	0.00121612	PASSED	Sudan	SUD	None	INCLUDED
+391	SU059363	East African Zebu	Baggara	SUD-Baggara47	GRRFAC	0.00211499	PASSED	Sudan	SUD	None	INCLUDED
+392	SU059366	East African Zebu	Baggara	SUD-Baggara19	GRRFAC	0.00120856	PASSED	Sudan	SUD	None	INCLUDED
+393	SU059370	East African Zebu	Baggara	SUD-Baggara48	GRRFAC	0.00195485	PASSED	Sudan	SUD	None	INCLUDED
+625	BTN1	East African Zebu	Butana	SUD-Butana37	PUBLIC	0.00385834	PASSED	Sudan	SUD	None	INCLUDED
+626	BTN10	East African Zebu	Butana	SUD-Butana47	PUBLIC	0.00329938	PASSED	Sudan	SUD	None	INCLUDED
+627	BTN11	East African Zebu	Butana	SUD-Butana48	PUBLIC	0.00290357	PASSED	Sudan	SUD	None	INCLUDED
+628	BTN113	East African Zebu	Butana	SUD-Butana58	PUBLIC	0.00354109	PASSED	Sudan	SUD	None	INCLUDED
+629	BTN12	East African Zebu	Butana	SUD-Butana49	PUBLIC	0.00281444	PASSED	Sudan	SUD	None	INCLUDED
+630	BTN13	East African Zebu	Butana	SUD-Butana50	PUBLIC	0.00326463	PASSED	Sudan	SUD	None	INCLUDED
+631	BTN14	East African Zebu	Butana	SUD-Butana51	PUBLIC	0.00369216	PASSED	Sudan	SUD	None	INCLUDED
+632	BTN183	East African Zebu	Butana	SUD-Butana59	PUBLIC	0.00324499	PASSED	Sudan	SUD	None	INCLUDED
+633	BTN2	East African Zebu	Butana	SUD-Butana38	PUBLIC	0.00344441	PASSED	Sudan	SUD	None	INCLUDED
+634	BTN260	East African Zebu	Butana	SUD-Butana60	PUBLIC	0.00332808	PASSED	Sudan	SUD	None	INCLUDED
+635	BTN271	East African Zebu	Butana	SUD-Butana61	PUBLIC	0.00398977	PASSED	Sudan	SUD	None	INCLUDED
+636	BTN2B	East African Zebu	Butana	SUD-Butana39	PUBLIC	0.00939658	PASSED	Sudan	SUD	None	INCLUDED
+637	BTN3	East African Zebu	Butana	SUD-Butana40	PUBLIC	0.00349879	PASSED	Sudan	SUD	None	INCLUDED
+638	BTN4	East African Zebu	Butana	SUD-Butana41	PUBLIC	0.0033718900000000002	PASSED	Sudan	SUD	None	INCLUDED
+639	BTN5	East African Zebu	Butana	SUD-Butana42	PUBLIC	0.00365137	PASSED	Sudan	SUD	None	INCLUDED
+640	BTN51	East African Zebu	Butana	SUD-Butana52	PUBLIC	0.00365741	PASSED	Sudan	SUD	None	INCLUDED
+641	BTN52	East African Zebu	Butana	SUD-Butana53	PUBLIC	0.00415746	PASSED	Sudan	SUD	None	INCLUDED
+642	BTN6	East African Zebu	Butana	SUD-Butana43	PUBLIC	0.00329182	PASSED	Sudan	SUD	None	INCLUDED
+643	BTN61	East African Zebu	Butana	SUD-Butana54	PUBLIC	0.00380849	PASSED	Sudan	SUD	None	INCLUDED
+644	BTN63	East African Zebu	Butana	SUD-Butana55	PUBLIC	0.00406228	PASSED	Sudan	SUD	None	INCLUDED
+645	BTN65	East African Zebu	Butana	SUD-Butana56	PUBLIC	0.0036559	PASSED	Sudan	SUD	None	INCLUDED
+646	BTN7	East African Zebu	Butana	SUD-Butana44	PUBLIC	0.00296702	PASSED	Sudan	SUD	None	INCLUDED
+647	BTN8	East African Zebu	Butana	SUD-Butana45	PUBLIC	0.00348822	PASSED	Sudan	SUD	None	INCLUDED
+648	BTN9	East African Zebu	Butana	SUD-Butana46	PUBLIC	0.00336434	PASSED	Sudan	SUD	None	INCLUDED
+649	BTNX74	East African Zebu	Butana	SUD-Butana57	PUBLIC	0.00332657	PASSED	Sudan	SUD	None	INCLUDED
+818	KNN10R	East African Zebu	Kenana	SUD-Kenana40	PUBLIC	0.00358037	PASSED	Sudan	SUD	None	INCLUDED
+819	KNN11R	East African Zebu	Kenana	SUD-Kenana41	PUBLIC	0.00345045	PASSED	Sudan	SUD	None	INCLUDED
+820	KNN12R	East African Zebu	Kenana	SUD-Kenana42	PUBLIC	0.00317399	PASSED	Sudan	SUD	None	INCLUDED
+821	KNN13R	East African Zebu	Kenana	SUD-Kenana43	PUBLIC	0.00348066	PASSED	Sudan	SUD	None	INCLUDED
+822	KNN14R	East African Zebu	Kenana	SUD-Kenana44	PUBLIC	0.0029776	PASSED	Sudan	SUD	None	INCLUDED
+823	KNN15R	East African Zebu	Kenana	SUD-Kenana45	PUBLIC	0.00347462	PASSED	Sudan	SUD	None	INCLUDED
+824	KNN16R	East African Zebu	Kenana	SUD-Kenana46	PUBLIC	0.00265129	PASSED	Sudan	SUD	None	INCLUDED
+825	KNN17R	East African Zebu	Kenana	SUD-Kenana47	PUBLIC	0.00360907	PASSED	Sudan	SUD	None	INCLUDED
+826	KNN18R	East African Zebu	Kenana	SUD-Kenana48	PUBLIC	0.00365137	PASSED	Sudan	SUD	None	INCLUDED
+827	KNN19R	East African Zebu	Kenana	SUD-Kenana49	PUBLIC	0.0030486	PASSED	Sudan	SUD	None	INCLUDED
+828	KNN1R	East African Zebu	Kenana	SUD-Kenana31	PUBLIC	0.00338096	PASSED	Sudan	SUD	None	INCLUDED
+829	KNN20R	East African Zebu	Kenana	SUD-Kenana50	PUBLIC	0.00358792	PASSED	Sudan	SUD	None	INCLUDED
+830	KNN21R	East African Zebu	Kenana	SUD-Kenana51	PUBLIC	0.00332506	PASSED	Sudan	SUD	None	INCLUDED
+831	KNN22R	East African Zebu	Kenana	SUD-Kenana52	PUBLIC	0.00311205	PASSED	Sudan	SUD	None	INCLUDED
+832	KNN23R	East African Zebu	Kenana	SUD-Kenana53	PUBLIC	0.00349426	PASSED	Sudan	SUD	None	INCLUDED
+833	KNN24R	East African Zebu	Kenana	SUD-Kenana54	PUBLIC	0.00320571	PASSED	Sudan	SUD	None	INCLUDED
+834	KNN25R	East African Zebu	Kenana	SUD-Kenana55	PUBLIC	0.00422846	PASSED	Sudan	SUD	None	INCLUDED
+835	KNN2R	East African Zebu	Kenana	SUD-Kenana32	PUBLIC	0.00340664	PASSED	Sudan	SUD	None	INCLUDED
+836	KNN3R	East African Zebu	Kenana	SUD-Kenana33	PUBLIC	0.00352749	PASSED	Sudan	SUD	None	INCLUDED
+837	KNN4R	East African Zebu	Kenana	SUD-Kenana34	PUBLIC	0.00290357	PASSED	Sudan	SUD	None	INCLUDED
+838	KNN5R	East African Zebu	Kenana	SUD-Kenana35	PUBLIC	0.00270567	PASSED	Sudan	SUD	None	INCLUDED
+839	KNN6R	East African Zebu	Kenana	SUD-Kenana36	PUBLIC	0.00277063	PASSED	Sudan	SUD	None	INCLUDED
+840	KNN7R	East African Zebu	Kenana	SUD-Kenana37	PUBLIC	0.00258179	PASSED	Sudan	SUD	None	INCLUDED
+841	KNN8R	East African Zebu	Kenana	SUD-Kenana38	PUBLIC	0.00312111	PASSED	Sudan	SUD	None	INCLUDED
+842	KNN9R	East African Zebu	Kenana	SUD-Kenana39	PUBLIC	0.00319212	PASSED	Sudan	SUD	None	INCLUDED
+563	ANKX1000710	East African Admixed	Ankole	UGD-Ankole11	PUBLIC	0.00243374	PASSED	Uganda	UGD	None	INCLUDED
+564	ANKX1007190	East African Admixed	Ankole	UGD-Ankole12	PUBLIC	0.0032042	PASSED	Uganda	UGD	None	INCLUDED
+565	ANKX1007193	East African Admixed	Ankole	UGD-Ankole13	PUBLIC	0.00283106	PASSED	Uganda	UGD	None	INCLUDED
+566	ANKX1007194	East African Admixed	Ankole	UGD-Ankole14	PUBLIC	0.00254403	PASSED	Uganda	UGD	None	INCLUDED
+567	ANKX1007195	East African Admixed	Ankole	UGD-Ankole15	PUBLIC	0.00267546	PASSED	Uganda	UGD	None	INCLUDED
+568	ANKX1007196	East African Admixed	Ankole	UGD-Ankole16	PUBLIC	0.00257877	PASSED	Uganda	UGD	None	INCLUDED
+569	ANKX1007197	East African Admixed	Ankole	UGD-Ankole17	PUBLIC	0.00322686	PASSED	Uganda	UGD	None	INCLUDED
+570	ANKX1007198	East African Admixed	Ankole	UGD-Ankole18	PUBLIC	0.00295192	PASSED	Uganda	UGD	None	INCLUDED
+571	ANKX1007199	East African Admixed	Ankole	UGD-Ankole19	PUBLIC	0.00408797	PASSED	Uganda	UGD	None	INCLUDED
+572	ANKX1007200	East African Admixed	Ankole	UGD-Ankole20	PUBLIC	0.00322384	PASSED	Uganda	UGD	None	INCLUDED
+573	ANKX1007208	East African Admixed	Ankole	UGD-Ankole21	PUBLIC	0.0029776	PASSED	Uganda	UGD	None	INCLUDED
+574	ANKX1007220	East African Admixed	Ankole	UGD-Ankole22	PUBLIC	0.00281897	PASSED	Uganda	UGD	None	INCLUDED
+575	ANKX1007237	East African Admixed	Ankole	UGD-Ankole23	PUBLIC	0.00315133	PASSED	Uganda	UGD	None	INCLUDED
+576	ANKX1007238	East African Admixed	Ankole	UGD-Ankole24	PUBLIC	0.00247	PASSED	Uganda	UGD	None	INCLUDED
+577	ANKX1007239	East African Admixed	Ankole	UGD-Ankole25	PUBLIC	0.00278423	PASSED	Uganda	UGD	None	INCLUDED
+578	ANKX1007242	East African Admixed	Ankole	UGD-Ankole26	PUBLIC	0.00262711	PASSED	Uganda	UGD	None	INCLUDED
+579	ANKX1007243	East African Admixed	Ankole	UGD-Ankole27	PUBLIC	0.0327339	PASSED	Uganda	UGD	None	INCLUDED
+580	ANKX1007257	East African Admixed	Ankole	UGD-Ankole28	PUBLIC	0.00323291	PASSED	Uganda	UGD	None	INCLUDED
+581	ANKX1007258	East African Admixed	Ankole	UGD-Ankole29	PUBLIC	0.00351239	PASSED	Uganda	UGD	None	INCLUDED
+582	ANKX1007260	East African Admixed	Ankole	UGD-Ankole30	PUBLIC	0.00363173	PASSED	Uganda	UGD	None	INCLUDED
+583	ANKX1007261	East African Admixed	Ankole	UGD-Ankole31	PUBLIC	0.00288998	PASSED	Uganda	UGD	None	INCLUDED
+584	ANKX1007262	East African Admixed	Ankole	UGD-Ankole32	PUBLIC	0.00336283	PASSED	Uganda	UGD	None	INCLUDED
+585	ANKX1007263	East African Admixed	Ankole	UGD-Ankole33	PUBLIC	0.00315284	PASSED	Uganda	UGD	None	INCLUDED
+586	ANKX1012066	East African Admixed	Ankole	UGD-Ankole34	PUBLIC	0.0026392	PASSED	Uganda	UGD	None	INCLUDED
+587	ANKX1012089	East African Admixed	Ankole	UGD-Ankole35	PUBLIC	0.00341872	PASSED	Uganda	UGD	None	INCLUDED
+991	Sheko_10	East African Admixed	Sheko	ETH-Sheko18	PUBLIC	0.0753781	PASSED	Ethiopia	ETH	None	INCLUDED
+992	Sheko_11	East African Admixed	Sheko	ETH-Sheko19	PUBLIC	0.0755941	PASSED	Ethiopia	ETH	None	INCLUDED
+993	Sheko_12	East African Admixed	Sheko	ETH-Sheko20	PUBLIC	0.075289	PASSED	Ethiopia	ETH	None	INCLUDED
+994	Sheko_13	East African Admixed	Sheko	ETH-Sheko21	PUBLIC	0.0756243	PASSED	Ethiopia	ETH	None	INCLUDED
+995	Sheko_2	East African Admixed	Sheko	ETH-Sheko10	PUBLIC	0.0752482	PASSED	Ethiopia	ETH	None	INCLUDED
+996	Sheko_3	East African Admixed	Sheko	ETH-Sheko11	PUBLIC	0.0752542	PASSED	Ethiopia	ETH	None	INCLUDED
+997	Sheko_4	East African Admixed	Sheko	ETH-Sheko12	PUBLIC	0.0752708	PASSED	Ethiopia	ETH	None	INCLUDED
+998	Sheko_5	East African Admixed	Sheko	ETH-Sheko13	PUBLIC	0.0753449	PASSED	Ethiopia	ETH	None	INCLUDED
+999	Sheko_6	East African Admixed	Sheko	ETH-Sheko14	PUBLIC	0.0756515	PASSED	Ethiopia	ETH	None	INCLUDED
+1000	Sheko_7	East African Admixed	Sheko	ETH-Sheko15	PUBLIC	0.0755715	PASSED	Ethiopia	ETH	None	INCLUDED
+1001	Sheko_8	East African Admixed	Sheko	ETH-Sheko16	PUBLIC	0.0755518	PASSED	Ethiopia	ETH	None	INCLUDED
+1002	Sheko_9	East African Admixed	Sheko	ETH-Sheko17	PUBLIC	0.0756697	PASSED	Ethiopia	ETH	None	INCLUDED
+1003	SHK000001	East African Admixed	Sheko	ETH-Sheko22	PUBLIC	0.00112094	PASSED	Ethiopia	ETH	None	INCLUDED
+1004	SHK000002	East African Admixed	Sheko	ETH-Sheko23	PUBLIC	0.00116626	PASSED	Ethiopia	ETH	None	INCLUDED
+1005	SHK000003	East African Admixed	Sheko	ETH-Sheko24	PUBLIC	0.00127503	PASSED	Ethiopia	ETH	None	INCLUDED
+1006	SHK000004	East African Admixed	Sheko	ETH-Sheko25	PUBLIC	0.00124331	PASSED	Ethiopia	ETH	None	INCLUDED
+1007	SHK000006	East African Admixed	Sheko	ETH-Sheko26	PUBLIC	0.0012554	PASSED	Ethiopia	ETH	None	INCLUDED
+1008	SHK000007	East African Admixed	Sheko	ETH-Sheko27	PUBLIC	0.0013128	PASSED	Ethiopia	ETH	None	INCLUDED
+1009	SHK000008	East African Admixed	Sheko	ETH-Sheko28	PUBLIC	0.00132338	PASSED	Ethiopia	ETH	None	INCLUDED
+1010	SHK000009	East African Admixed	Sheko	ETH-Sheko29	PUBLIC	0.00140344	PASSED	Ethiopia	ETH	None	INCLUDED
+1011	SHK000010	East African Admixed	Sheko	ETH-Sheko30	PUBLIC	0.00123273	PASSED	Ethiopia	ETH	None	INCLUDED
+1012	SHK000011	East African Admixed	Sheko	ETH-Sheko31	PUBLIC	0.00125993	PASSED	Ethiopia	ETH	None	INCLUDED
+1013	SHK000012	East African Admixed	Sheko	ETH-Sheko32	PUBLIC	0.00137172	PASSED	Ethiopia	ETH	None	INCLUDED
+1014	SHK000013	East African Admixed	Sheko	ETH-Sheko33	PUBLIC	0.00144574	PASSED	Ethiopia	ETH	None	INCLUDED
+1015	SHK000014	East African Admixed	Sheko	ETH-Sheko34	PUBLIC	0.00121158	PASSED	Ethiopia	ETH	None	INCLUDED
+1016	SHK000015	East African Admixed	Sheko	ETH-Sheko35	PUBLIC	0.00118892	PASSED	Ethiopia	ETH	None	INCLUDED
+1017	SHK000016	East African Admixed	Sheko	ETH-Sheko36	PUBLIC	0.00123576	PASSED	Ethiopia	ETH	None	INCLUDED
+1018	SHK000017	East African Admixed	Sheko	ETH-Sheko37	PUBLIC	0.00134906	PASSED	Ethiopia	ETH	None	INCLUDED
+1019	SHK000018	East African Admixed	Sheko	ETH-Sheko38	PUBLIC	0.00143366	PASSED	Ethiopia	ETH	None	INCLUDED
+1020	SHK000020	East African Admixed	Sheko	ETH-Sheko39	PUBLIC	0.00137625	PASSED	Ethiopia	ETH	None	INCLUDED
+1	Bashi1	East African Admixed	Bashi	RWD-Bashi01	GRRFAC	0.00142157	PASSED	Rwanda	RWD	None	INCLUDED
+2	Bashi10	East African Admixed	Bashi	RWD-Bashi10	GRRFAC	0.0017781	PASSED	Rwanda	RWD	high relatedness (PHI=0.499535)	EXCLUDED
+3	Bashi2	East African Admixed	Bashi	RWD-Bashi02	GRRFAC	0.00163307	PASSED	Rwanda	RWD	high relatedness (PHI=0.499287)	EXCLUDED
+4	Bashi3	East African Admixed	Bashi	RWD-Bashi03	GRRFAC	0.00132942	PASSED	Rwanda	RWD	None	INCLUDED
+5	Bashi4	East African Admixed	Bashi	RWD-Bashi04	GRRFAC	0.00178867	PASSED	Rwanda	RWD	None	INCLUDED
+6	Bashi5	East African Admixed	Bashi	RWD-Bashi05	GRRFAC	0.00149862	PASSED	Rwanda	RWD	high relatedness (PHI=0.499438)	EXCLUDED
+7	Bashi6	East African Admixed	Bashi	RWD-Bashi06	GRRFAC	0.00142157	PASSED	Rwanda	RWD	None	INCLUDED
+8	Bashi7	East African Admixed	Bashi	RWD-Bashi07	GRRFAC	0.00168292	PASSED	Rwanda	RWD	None	INCLUDED
+9	Bashi8	East African Admixed	Bashi	RWD-Bashi08	GRRFAC	0.00148653	PASSED	Rwanda	RWD	None	INCLUDED
+10	Bashi9	East African Admixed	Bashi	RWD-Bashi09	GRRFAC	0.00204247	PASSED	Rwanda	RWD	None	INCLUDED
+33	ET010101	East African Zebu	Ethiopia Boran	ETH-Boran41	GRRFAC	0.00137776	PASSED	Ethiopia	ETH	None	INCLUDED
+34	ET010102	East African Zebu	Ethiopia Boran	ETH-Boran21	GRRFAC	0.00133546	PASSED	Ethiopia	ETH	None	INCLUDED
+35	ET010103	East African Zebu	Ethiopia Boran	ETH-Boran42	GRRFAC	0.00132942	PASSED	Ethiopia	ETH	None	INCLUDED
+36	ET010204	East African Zebu	Ethiopia Boran	ETH-Boran22	GRRFAC	0.00147143	PASSED	Ethiopia	ETH	None	INCLUDED
+37	ET010205	East African Zebu	Ethiopia Boran	ETH-Boran43	GRRFAC	0.00130374	PASSED	Ethiopia	ETH	None	INCLUDED
+38	ET010306	East African Zebu	Ethiopia Boran	ETH-Boran23	GRRFAC	0.00131431	PASSED	Ethiopia	ETH	None	INCLUDED
+39	ET010307	East African Zebu	Ethiopia Boran	ETH-Boran44	GRRFAC	0.00326312	PASSED	Ethiopia	ETH	None	INCLUDED
+40	ET010408	East African Zebu	Ethiopia Boran	ETH-Boran24	GRRFAC	0.00195787	PASSED	Ethiopia	ETH	None	INCLUDED
+41	ET010509	East African Zebu	Ethiopia Boran	ETH-Boran45	GRRFAC	0.00142459	PASSED	Ethiopia	ETH	None	INCLUDED
+42	ET010610	East African Zebu	Ethiopia Boran	ETH-Boran25	GRRFAC	0.000939658	PASSED	Ethiopia	ETH	None	INCLUDED
+43	ET019101	East African Zebu	Ethiopia Boran	ETH-Boran46	GRRFAC	0.00162703	PASSED	Ethiopia	ETH	None	INCLUDED
+44	ET019102	East African Zebu	Ethiopia Boran	ETH-Boran47	GRRFAC	0.00160135	PASSED	Ethiopia	ETH	None	INCLUDED
+45	ET019103	East African Zebu	Ethiopia Boran	ETH-Boran48	GRRFAC	0.00113152	PASSED	Ethiopia	ETH	None	INCLUDED
+46	ET019104	East African Zebu	Ethiopia Boran	ETH-Boran26	GRRFAC	0.00120856	PASSED	Ethiopia	ETH	None	INCLUDED
+47	ET019105	East African Zebu	Ethiopia Boran	ETH-Boran27	GRRFAC	0.00118439	PASSED	Ethiopia	ETH	None	INCLUDED
+48	ET019106	East African Zebu	Ethiopia Boran	ETH-Boran49	GRRFAC	0.0011572	PASSED	Ethiopia	ETH	None	INCLUDED
+49	ET019107	East African Zebu	Ethiopia Boran	ETH-Boran50	GRRFAC	0.00116626	PASSED	Ethiopia	ETH	None	INCLUDED
+50	ET019108	East African Zebu	Ethiopia Boran	ETH-Boran28	GRRFAC	0.00191557	PASSED	Ethiopia	ETH	None	INCLUDED
+51	ET019109	East African Zebu	Ethiopia Boran	ETH-Boran51	GRRFAC	0.00172976	PASSED	Ethiopia	ETH	None	INCLUDED
+52	ET019110	East African Zebu	Ethiopia Boran	ETH-Boran29	GRRFAC	0.00145934	PASSED	Ethiopia	ETH	None	INCLUDED
+53	ET019111	East African Zebu	Ethiopia Boran	ETH-Boran52	GRRFAC	0.0012841	PASSED	Ethiopia	ETH	None	INCLUDED
+54	ET019112	East African Zebu	Ethiopia Boran	ETH-Boran30	GRRFAC	0.00146689	PASSED	Ethiopia	ETH	None	INCLUDED
+55	ET019113	East African Zebu	Ethiopia Boran	ETH-Boran53	GRRFAC	0.00147294	PASSED	Ethiopia	ETH	None	INCLUDED
+56	ET019114	East African Zebu	Ethiopia Boran	ETH-Boran54	GRRFAC	0.00123425	PASSED	Ethiopia	ETH	None	INCLUDED
+57	ET019115	East African Zebu	Ethiopia Boran	ETH-Boran55	GRRFAC	0.0228071	PASSED	Ethiopia	ETH	None	INCLUDED
+58	ET019116	East African Zebu	Ethiopia Boran	ETH-Boran56	GRRFAC	0.00219959	PASSED	Ethiopia	ETH	None	INCLUDED
+59	ET019117	East African Zebu	Ethiopia Boran	ETH-Boran31	GRRFAC	0.00186119	PASSED	Ethiopia	ETH	None	INCLUDED
+60	ET019118	East African Zebu	Ethiopia Boran	ETH-Boran57	GRRFAC	0.00165422	PASSED	Ethiopia	ETH	None	INCLUDED
+61	ET019119	East African Zebu	Ethiopia Boran	ETH-Boran58	GRRFAC	0.00153941	PASSED	Ethiopia	ETH	None	INCLUDED
+62	ET019120	East African Zebu	Ethiopia Boran	ETH-Boran32	GRRFAC	0.00154243	PASSED	Ethiopia	ETH	None	INCLUDED
+63	ET019121	East African Zebu	Ethiopia Boran	ETH-Boran59	GRRFAC	0.00142459	PASSED	Ethiopia	ETH	None	INCLUDED
+64	ET019201	East African Zebu	Ethiopia Boran	ETH-Boran60	GRRFAC	0.0011995	PASSED	Ethiopia	ETH	None	INCLUDED
+65	ET019202	East African Zebu	Ethiopia Boran	ETH-Boran33	GRRFAC	0.00129769	PASSED	Ethiopia	ETH	None	INCLUDED
+66	ET019204	East African Zebu	Ethiopia Boran	ETH-Boran34	GRRFAC	0.00216484	PASSED	Ethiopia	ETH	None	INCLUDED
+67	ET019205	East African Zebu	Ethiopia Boran	ETH-Boran61	GRRFAC	0.00171767	PASSED	Ethiopia	ETH	None	INCLUDED
+68	ET019206	East African Zebu	Ethiopia Boran	ETH-Boran35	GRRFAC	0.00158473	PASSED	Ethiopia	ETH	None	INCLUDED
+69	ET019207	East African Zebu	Ethiopia Boran	ETH-Boran62	GRRFAC	0.00157718	PASSED	Ethiopia	ETH	None	INCLUDED
+70	ET019208	East African Zebu	Ethiopia Boran	ETH-Boran36	GRRFAC	0.00171616	PASSED	Ethiopia	ETH	None	INCLUDED
+71	ET019209	East African Zebu	Ethiopia Boran	ETH-Boran63	GRRFAC	0.00161343	PASSED	Ethiopia	ETH	None	INCLUDED
+72	ET019210	East African Zebu	Ethiopia Boran	ETH-Boran64	GRRFAC	0.00151373	PASSED	Ethiopia	ETH	None	INCLUDED
+73	ET019212	East African Zebu	Ethiopia Boran	ETH-Boran37	GRRFAC	0.00172976	PASSED	Ethiopia	ETH	None	INCLUDED
+74	ET019213	East African Zebu	Ethiopia Boran	ETH-Boran65	GRRFAC	0.00172371	PASSED	Ethiopia	ETH	None	INCLUDED
+75	ET019214	East African Zebu	Ethiopia Boran	ETH-Boran66	GRRFAC	0.00144121	PASSED	Ethiopia	ETH	None	INCLUDED
+76	ET019215	East African Zebu	Ethiopia Boran	ETH-Boran38	GRRFAC	0.00172825	PASSED	Ethiopia	ETH	None	INCLUDED
+77	ET019216	East African Zebu	Ethiopia Boran	ETH-Boran39	GRRFAC	0.00209233	PASSED	Ethiopia	ETH	None	INCLUDED
+78	ET019217	East African Zebu	Ethiopia Boran	ETH-Boran67	GRRFAC	0.00168141	PASSED	Ethiopia	ETH	None	INCLUDED
+79	ET019220	East African Zebu	Ethiopia Boran	ETH-Boran40	GRRFAC	0.00142913	PASSED	Ethiopia	ETH	None	INCLUDED
+110	Inkoromoijo1	East African Admixed	Inkoromoijo	RWD-Inkoromoijo01	GRRFAC	0.00257575	PASSED	Rwanda	RWD	None	INCLUDED
+111	Inkoromoijo10	East African Admixed	Inkoromoijo	RWD-Inkoromoijo10	GRRFAC	0.00130223	PASSED	Rwanda	RWD	None	INCLUDED
+112	Inkoromoijo2	East African Admixed	Inkoromoijo	RWD-Inkoromoijo02	GRRFAC	0.00171767	PASSED	Rwanda	RWD	None	INCLUDED
+113	Inkoromoijo3	East African Admixed	Inkoromoijo	RWD-Inkoromoijo03	GRRFAC	0.00157566	PASSED	Rwanda	RWD	None	INCLUDED
+114	Inkoromoijo4	East African Admixed	Inkoromoijo	RWD-Inkoromoijo04	GRRFAC	0.00279178	PASSED	Rwanda	RWD	None	INCLUDED
+115	Inkoromoijo5	East African Admixed	Inkoromoijo	RWD-Inkoromoijo05	GRRFAC	0.00232951	PASSED	Rwanda	RWD	None	INCLUDED
+116	Inkoromoijo6	East African Admixed	Inkoromoijo	RWD-Inkoromoijo06	GRRFAC	0.00471038	PASSED	Rwanda	RWD	None	INCLUDED
+117	Inkoromoijo7	East African Admixed	Inkoromoijo	RWD-Inkoromoijo07	GRRFAC	0.00206815	PASSED	Rwanda	RWD	None	INCLUDED
+118	Inkoromoijo8	East African Admixed	Inkoromoijo	RWD-Inkoromoijo08	GRRFAC	0.0015107	PASSED	Rwanda	RWD	None	INCLUDED
+119	Inkoromoijo9	East African Admixed	Inkoromoijo	RWD-Inkoromoijo09	GRRFAC	0.0017358	PASSED	Rwanda	RWD	None	INCLUDED
+120	Inkuku1	East African Admixed	Inkuku	RWD-Inkuku01	GRRFAC	0.00191708	PASSED	Rwanda	RWD	None	INCLUDED
+121	Inkuku10	East African Admixed	Inkuku	RWD-Inkuku10	GRRFAC	0.115697	PASSED	Rwanda	RWD	None	INCLUDED
+122	Inkuku11	East African Admixed	Inkuku	RWD-Inkuku11	GRRFAC	0.00330089	PASSED	Rwanda	RWD	None	INCLUDED
+123	Inkuku12	East African Admixed	Inkuku	RWD-Inkuku12	GRRFAC	0.00190349	PASSED	Rwanda	RWD	None	INCLUDED
+124	Inkuku13	East African Admixed	Inkuku	RWD-Inkuku13	GRRFAC	0.00195938	PASSED	Rwanda	RWD	None	INCLUDED
+125	Inkuku14	East African Admixed	Inkuku	RWD-Inkuku14	GRRFAC	0.00175695	PASSED	Rwanda	RWD	None	INCLUDED
+126	Inkuku15	East African Admixed	Inkuku	RWD-Inkuku15	GRRFAC	0.00247	PASSED	Rwanda	RWD	None	INCLUDED
+127	Inkuku16	East African Admixed	Inkuku	RWD-Inkuku16	GRRFAC	0.00254251	PASSED	Rwanda	RWD	None	INCLUDED
+128	Inkuku17	East African Admixed	Inkuku	RWD-Inkuku17	GRRFAC	0.00347764	PASSED	Rwanda	RWD	None	INCLUDED
+129	Inkuku18	East African Admixed	Inkuku	RWD-Inkuku18	GRRFAC	0.0196135	PASSED	Rwanda	RWD	None	INCLUDED
+130	Inkuku19	East African Admixed	Inkuku	RWD-Inkuku19	GRRFAC	0.00479044	PASSED	Rwanda	RWD	None	INCLUDED
+131	Inkuku2	East African Admixed	Inkuku	RWD-Inkuku02	GRRFAC	0.155616	PASSED	Rwanda	RWD	None	INCLUDED
+132	Inkuku20	East African Admixed	Inkuku	RWD-Inkuku20	GRRFAC	0.00159832	PASSED	Rwanda	RWD	None	INCLUDED
+133	Inkuku21	East African Admixed	Inkuku	RWD-Inkuku21	GRRFAC	0.00136719	PASSED	Rwanda	RWD	None	INCLUDED
+134	Inkuku22	East African Admixed	Inkuku	RWD-Inkuku22	GRRFAC	0.0012131	PASSED	Rwanda	RWD	None	INCLUDED
+135	Inkuku23	East African Admixed	Inkuku	RWD-Inkuku23	GRRFAC	0.00146992	PASSED	Rwanda	RWD	None	INCLUDED
+136	Inkuku24	East African Admixed	Inkuku	RWD-Inkuku24	GRRFAC	0.00152279	PASSED	Rwanda	RWD	None	INCLUDED
+137	Inkuku25	East African Admixed	Inkuku	RWD-Inkuku25	GRRFAC	0.00149258	PASSED	Rwanda	RWD	None	INCLUDED
+138	Inkuku26	East African Admixed	Inkuku	RWD-Inkuku26	GRRFAC	0.00217995	PASSED	Rwanda	RWD	None	INCLUDED
+139	Inkuku27	East African Admixed	Inkuku	RWD-Inkuku27	GRRFAC	0.00174335	PASSED	Rwanda	RWD	None	INCLUDED
+140	Inkuku28	East African Admixed	Inkuku	RWD-Inkuku28	GRRFAC	0.00150164	PASSED	Rwanda	RWD	None	INCLUDED
+141	Inkuku29	East African Admixed	Inkuku	RWD-Inkuku29	GRRFAC	0.00147898	PASSED	Rwanda	RWD	None	INCLUDED
+142	Inkuku3	East African Admixed	Inkuku	RWD-Inkuku03	GRRFAC	0.169607	PASSED	Rwanda	RWD	None	INCLUDED
+143	Inkuku30	East African Admixed	Inkuku	RWD-Inkuku30	GRRFAC	0.00141704	PASSED	Rwanda	RWD	None	INCLUDED
+144	Inkuku4	East African Admixed	Inkuku	RWD-Inkuku04	GRRFAC	0.00197147	PASSED	Rwanda	RWD	None	INCLUDED
+145	Inkuku5	East African Admixed	Inkuku	RWD-Inkuku05	GRRFAC	0.0024836	PASSED	Rwanda	RWD	None	INCLUDED
+146	Inkuku6	East African Admixed	Inkuku	RWD-Inkuku06	GRRFAC	0.00216031	PASSED	Rwanda	RWD	None	INCLUDED
+147	Inkuku7	East African Admixed	Inkuku	RWD-Inkuku07	GRRFAC	0.0031196	PASSED	Rwanda	RWD	None	INCLUDED
+148	Inkuku8	East African Admixed	Inkuku	RWD-Inkuku08	GRRFAC	0.00316644	PASSED	Rwanda	RWD	None	INCLUDED
+149	Inkuku9	East African Admixed	Inkuku	RWD-Inkuku09	GRRFAC	0.00330089	PASSED	Rwanda	RWD	None	INCLUDED
+150	Inkungu1	East African Admixed	Inkungu	RWD-Inkungu01	GRRFAC	0.00213765	PASSED	Rwanda	RWD	None	INCLUDED
+151	Inkungu10	East African Admixed	Inkungu	RWD-Inkungu10	GRRFAC	0.00201226	PASSED	Rwanda	RWD	None	INCLUDED
+152	Inkungu11	East African Admixed	Inkungu	RWD-Inkungu11	GRRFAC	0.0020183	PASSED	Rwanda	RWD	None	INCLUDED
+153	Inkungu12	East African Admixed	Inkungu	RWD-Inkungu12	GRRFAC	0.00408948	PASSED	Rwanda	RWD	None	INCLUDED
+154	Inkungu13	East African Admixed	Inkungu	RWD-Inkungu13	GRRFAC	0.00152581	PASSED	Rwanda	RWD	None	INCLUDED
+155	Inkungu14	East African Admixed	Inkungu	RWD-Inkungu14	GRRFAC	0.0015666	PASSED	Rwanda	RWD	None	INCLUDED
+156	Inkungu15	East African Admixed	Inkungu	RWD-Inkungu15	GRRFAC	0.00187478	PASSED	Rwanda	RWD	None	INCLUDED
+157	Inkungu16	East African Admixed	Inkungu	RWD-Inkungu16	GRRFAC	0.0025969	PASSED	Rwanda	RWD	None	INCLUDED
+158	Inkungu17	East African Admixed	Inkungu	RWD-Inkungu17	GRRFAC	0.00277365	PASSED	Rwanda	RWD	None	INCLUDED
+159	Inkungu18	East African Admixed	Inkungu	RWD-Inkungu18	GRRFAC	0.00320118	PASSED	Rwanda	RWD	None	INCLUDED
+160	Inkungu19	East African Admixed	Inkungu	RWD-Inkungu19	GRRFAC	0.00288998	PASSED	Rwanda	RWD	None	INCLUDED
+161	Inkungu2	East African Admixed	Inkungu	RWD-Inkungu02	GRRFAC	0.00151675	PASSED	Rwanda	RWD	None	INCLUDED
+162	Inkungu20	East African Admixed	Inkungu	RWD-Inkungu20	GRRFAC	0.00221016	PASSED	Rwanda	RWD	None	INCLUDED
+163	Inkungu21	East African Admixed	Inkungu	RWD-Inkungu21	GRRFAC	0.00319514	PASSED	Rwanda	RWD	None	INCLUDED
+164	Inkungu22	East African Admixed	Inkungu	RWD-Inkungu22	GRRFAC	0.00250324	PASSED	Rwanda	RWD	None	INCLUDED
+165	Inkungu23	East African Admixed	Inkungu	RWD-Inkungu23	GRRFAC	0.00114965	PASSED	Rwanda	RWD	None	INCLUDED
+166	Inkungu24	East African Admixed	Inkungu	RWD-Inkungu24	GRRFAC	0.0028371	PASSED	Rwanda	RWD	None	INCLUDED
+167	Inkungu25	East African Admixed	Inkungu	RWD-Inkungu25	GRRFAC	0.166912	PASSED	Rwanda	RWD	None	INCLUDED
+168	Inkungu26	East African Admixed	Inkungu	RWD-Inkungu26	GRRFAC	0.00133848	PASSED	Rwanda	RWD	None	INCLUDED
+169	Inkungu27	East African Admixed	Inkungu	RWD-Inkungu27	GRRFAC	0.00117231	PASSED	Rwanda	RWD	None	INCLUDED
+170	Inkungu28	East African Admixed	Inkungu	RWD-Inkungu28	GRRFAC	0.00117533	PASSED	Rwanda	RWD	None	INCLUDED
+171	Inkungu29	East African Admixed	Inkungu	RWD-Inkungu29	GRRFAC	0.00108015	PASSED	Rwanda	RWD	None	INCLUDED
+172	Inkungu3	East African Admixed	Inkungu	RWD-Inkungu03	GRRFAC	0.0025682	PASSED	Rwanda	RWD	None	INCLUDED
+173	Inkungu30	East African Admixed	Inkungu	RWD-Inkungu30	GRRFAC	0.00158775	PASSED	Rwanda	RWD	None	INCLUDED
+174	Inkungu4	East African Admixed	Inkungu	RWD-Inkungu04	GRRFAC	0.00183097	PASSED	Rwanda	RWD	None	INCLUDED
+175	Inkungu5	East African Admixed	Inkungu	RWD-Inkungu05	GRRFAC	0.00219656	PASSED	Rwanda	RWD	None	INCLUDED
+176	Inkungu6	East African Admixed	Inkungu	RWD-Inkungu06	GRRFAC	0.00254705	PASSED	Rwanda	RWD	None	INCLUDED
+177	Inkungu7	East African Admixed	Inkungu	RWD-Inkungu07	GRRFAC	0.00359397	PASSED	Rwanda	RWD	None	INCLUDED
+178	Inkungu8	East African Admixed	Inkungu	RWD-Inkungu08	GRRFAC	0.0152672	PASSED	Rwanda	RWD	None	INCLUDED
+179	Inkungu9	East African Admixed	Inkungu	RWD-Inkungu09	GRRFAC	0.00174184	PASSED	Rwanda	RWD	None	INCLUDED
+180	Inyambo1	East African Admixed	Inyambo	RWD-Inyambo01	GRRFAC	0.0013128	PASSED	Rwanda	RWD	None	INCLUDED
+181	Inyambo10	East African Admixed	Inyambo	RWD-Inyambo09	GRRFAC	0.00190349	PASSED	Rwanda	RWD	None	INCLUDED
+182	Inyambo11	East African Admixed	Inyambo	RWD-Inyambo10	GRRFAC	0.00121914	PASSED	Rwanda	RWD	None	INCLUDED
+183	Inyambo12	East African Admixed	Inyambo	RWD-Inyambo11	GRRFAC	0.00225397	PASSED	Rwanda	RWD	None	INCLUDED
+184	Inyambo13	East African Admixed	Inyambo	RWD-Inyambo12	GRRFAC	0.00288091	PASSED	Rwanda	RWD	None	INCLUDED
+185	Inyambo14	East African Admixed	Inyambo	RWD-Inyambo13	GRRFAC	0.00218297	PASSED	Rwanda	RWD	None	INCLUDED
+186	Inyambo15	East African Admixed	Inyambo	RWD-Inyambo14	GRRFAC	0.00179623	PASSED	Rwanda	RWD	None	INCLUDED
+187	Inyambo16	East African Admixed	Inyambo	RWD-Inyambo15	GRRFAC	0.00181889	PASSED	Rwanda	RWD	None	INCLUDED
+188	Inyambo17	East African Admixed	Inyambo	RWD-Inyambo16	GRRFAC	0.00195334	PASSED	Rwanda	RWD	None	INCLUDED
+189	Inyambo18	East African Admixed	Inyambo	RWD-Inyambo17	GRRFAC	0.00153185	PASSED	Rwanda	RWD	None	INCLUDED
+190	Inyambo19	East African Admixed	Inyambo	RWD-Inyambo18	GRRFAC	0.00269812	PASSED	Rwanda	RWD	None	INCLUDED
+191	Inyambo2	East African Admixed	Inyambo	RWD-Inyambo02	GRRFAC	0.00126446	PASSED	Rwanda	RWD	None	INCLUDED
+192	Inyambo20	East African Admixed	Inyambo	RWD-Inyambo19	GRRFAC	0.00259237	PASSED	Rwanda	RWD	None	INCLUDED
+193	Inyambo21	East African Admixed	Inyambo	RWD-Inyambo20	GRRFAC	0.0124935	PASSED	Rwanda	RWD	None	INCLUDED
+194	Inyambo22	East African Admixed	Inyambo	RWD-Inyambo21	GRRFAC	0.00264977	PASSED	Rwanda	RWD	None	INCLUDED
+195	Inyambo23	East African Admixed	Inyambo	RWD-Inyambo22	GRRFAC	0.00111339	PASSED	Rwanda	RWD	None	INCLUDED
+196	Inyambo24	East African Admixed	Inyambo	RWD-Inyambo23	GRRFAC	0.00118892	PASSED	Rwanda	RWD	None	INCLUDED
+197	Inyambo25	East African Admixed	Inyambo	RWD-Inyambo24	GRRFAC	0.00146085	PASSED	Rwanda	RWD	None	INCLUDED
+198	Inyambo26	East African Admixed	Inyambo	RWD-Inyambo25	GRRFAC	0.00129921	PASSED	Rwanda	RWD	None	INCLUDED
+199	Inyambo27	East African Admixed	Inyambo	RWD-Inyambo26	GRRFAC	0.00148955	PASSED	Rwanda	RWD	None	INCLUDED
+200	Inyambo28	East African Admixed	Inyambo	RWD-Inyambo27	GRRFAC	0.00178867	PASSED	Rwanda	RWD	None	INCLUDED
+201	Inyambo29	East African Admixed	Inyambo	RWD-Inyambo28	GRRFAC	0.0025259	PASSED	Rwanda	RWD	None	INCLUDED
+202	Inyambo3	East African Admixed	Inyambo	RWD-Inyambo03	GRRFAC	0.00158775	PASSED	Rwanda	RWD	None	INCLUDED
+203	Inyambo30	East African Admixed	Inyambo	RWD-Inyambo29	GRRFAC	0.00152128	PASSED	Rwanda	RWD	None	INCLUDED
+204	Inyambo4	East African Admixed	Inyambo	RWD-Inyambo04	GRRFAC	0.00360152	PASSED	Rwanda	RWD	None	INCLUDED
+205	Inyambo5	East African Admixed	Inyambo	RWD-Inyambo05	GRRFAC	0.0012841	PASSED	Rwanda	RWD	None	INCLUDED
+206	Inyambo6	East African Admixed	Inyambo	RWD-Inyambo06	GRRFAC	0.00290962	PASSED	Rwanda	RWD	high relatedness (PHI=0.499315)	EXCLUDED
+207	Inyambo7	East African Admixed	Inyambo	RWD-Inyambo07	GRRFAC	0.00146236	PASSED	Rwanda	RWD	None	INCLUDED
+208	Inyambo9	East African Admixed	Inyambo	RWD-Inyambo08	GRRFAC	0.00187629	PASSED	Rwanda	RWD	None	INCLUDED
+209	KE019101	East African Zebu	Improved Boran	KEN-ImprdBoran01	GRRFAC	0.00246849	PASSED	Kenya	KEN	None	INCLUDED
+210	KE019104	East African Zebu	Improved Boran	KEN-ImprdBoran02	GRRFAC	0.00206664	PASSED	Kenya	KEN	None	INCLUDED
+211	KE019107	East African Zebu	Improved Boran	KEN-ImprdBoran03	GRRFAC	0.150262	PASSED	Kenya	KEN	None	INCLUDED
+212	KE019109	East African Zebu	Improved Boran	KEN-ImprdBoran04	GRRFAC	0.135611	PASSED	Kenya	KEN	None	INCLUDED
+213	KE019113	East African Zebu	Improved Boran	KEN-ImprdBoran05	GRRFAC	0.00255913	PASSED	Kenya	KEN	None	INCLUDED
+214	KE019116	East African Zebu	Improved Boran	KEN-ImprdBoran06	GRRFAC	0.00171465	PASSED	Kenya	KEN	None	INCLUDED
+215	KE019119	East African Zebu	Improved Boran	KEN-ImprdBoran07	GRRFAC	0.00165422	PASSED	Kenya	KEN	None	INCLUDED
+216	KE019123	East African Zebu	Improved Boran	KEN-ImprdBoran08	GRRFAC	0.00237483	PASSED	Kenya	KEN	None	INCLUDED
+217	KE019125	East African Zebu	Improved Boran	KEN-ImprdBoran09	GRRFAC	0.00185363	PASSED	Kenya	KEN	None	INCLUDED
+218	KE019128	East African Zebu	Improved Boran	KEN-ImprdBoran10	GRRFAC	0.00191406	PASSED	Kenya	KEN	None	INCLUDED
+219	KE019132	East African Zebu	Improved Boran	KEN-ImprdBoran11	GRRFAC	0.00185061	PASSED	Kenya	KEN	None	INCLUDED
+220	KE029203	East African Zebu	Improved Boran	KEN-ImprdBoran12	GRRFAC	0.00154847	PASSED	Kenya	KEN	None	INCLUDED
+221	KE029205	East African Zebu	Improved Boran	KEN-ImprdBoran13	GRRFAC	0.00177206	PASSED	Kenya	KEN	None	INCLUDED
+222	KE029208	East African Zebu	Improved Boran	KEN-ImprdBoran14	GRRFAC	0.001482	PASSED	Kenya	KEN	None	INCLUDED
+223	KE029212	East African Zebu	Improved Boran	KEN-ImprdBoran15	GRRFAC	0.00206362	PASSED	Kenya	KEN	None	INCLUDED
+224	KE029215	East African Zebu	Improved Boran	KEN-ImprdBoran16	GRRFAC	0.00270869	PASSED	Kenya	KEN	None	INCLUDED
+225	KE029218	East African Zebu	Improved Boran	KEN-ImprdBoran17	GRRFAC	0.00160588	PASSED	Kenya	KEN	None	INCLUDED
+226	KE029221	East African Zebu	Improved Boran	KEN-ImprdBoran18	GRRFAC	0.00156509	PASSED	Kenya	KEN	None	INCLUDED
+227	KE029224	East African Zebu	Improved Boran	KEN-ImprdBoran19	GRRFAC	0.00126446	PASSED	Kenya	KEN	None	INCLUDED
+228	KE029227	East African Zebu	Improved Boran	KEN-ImprdBoran20	GRRFAC	0.00118137	PASSED	Kenya	KEN	None	INCLUDED
+229	KE029229	East African Zebu	Improved Boran	KEN-ImprdBoran21	GRRFAC	0.00121763	PASSED	Kenya	KEN	None	INCLUDED
+230	KE029232	East African Zebu	Improved Boran	KEN-ImprdBoran22	GRRFAC	0.00108166	PASSED	Kenya	KEN	None	INCLUDED
+231	KE029235	East African Zebu	Improved Boran	KEN-ImprdBoran23	GRRFAC	0.00120252	PASSED	Kenya	KEN	None	INCLUDED
+232	KE030101	East African Zebu	Orma Boran	KEN-OrmanBoran01	GRRFAC	0.00187932	PASSED	Kenya	KEN	None	INCLUDED
+233	KE030202	East African Zebu	Orma Boran	KEN-OrmanBoran02	GRRFAC	0.00232951	PASSED	Kenya	KEN	None	INCLUDED
+234	KE030203	East African Zebu	Orma Boran	KEN-OrmanBoran03	GRRFAC	0.00191406	PASSED	Kenya	KEN	None	INCLUDED
+235	KE030305	East African Zebu	Orma Boran	KEN-OrmanBoran04	GRRFAC	0.0013974	PASSED	Kenya	KEN	None	INCLUDED
+236	KE030507	East African Zebu	Orma Boran	KEN-OrmanBoran05	GRRFAC	0.00184608	PASSED	Kenya	KEN	None	INCLUDED
+237	KE030709	East African Zebu	Orma Boran	KEN-OrmanBoran06	GRRFAC	0.00140949	PASSED	Kenya	KEN	None	INCLUDED
+238	KE030911	East African Zebu	Orma Boran	KEN-OrmanBoran07	GRRFAC	0.00133244	PASSED	Kenya	KEN	None	INCLUDED
+239	KE031113	East African Zebu	Orma Boran	KEN-OrmanBoran08	GRRFAC	0.00125237	PASSED	Kenya	KEN	None	INCLUDED
+240	KE031315	East African Zebu	Orma Boran	KEN-OrmanBoran09	GRRFAC	0.0015107	PASSED	Kenya	KEN	None	INCLUDED
+241	KE031416	East African Zebu	Orma Boran	KEN-OrmanBoran10	GRRFAC	0.00144877	PASSED	Kenya	KEN	None	INCLUDED
+242	KE031820	East African Zebu	Orma Boran	KEN-OrmanBoran11	GRRFAC	0.00130676	PASSED	Kenya	KEN	None	INCLUDED
+243	KE031921	East African Zebu	Orma Boran	KEN-OrmanBoran12	GRRFAC	0.00220563	PASSED	Kenya	KEN	None	INCLUDED
+244	KE032225	East African Zebu	Orma Boran	KEN-OrmanBoran13	GRRFAC	0.00187781	PASSED	Kenya	KEN	None	INCLUDED
+245	KE032428	East African Zebu	Orma Boran	KEN-OrmanBoran14	GRRFAC	0.00163307	PASSED	Kenya	KEN	None	INCLUDED
+246	KE032630	East African Zebu	Orma Boran	KEN-OrmanBoran15	GRRFAC	0.00147445	PASSED	Kenya	KEN	None	INCLUDED
+247	KE032832	East African Zebu	Orma Boran	KEN-OrmanBoran16	GRRFAC	0.00158926	PASSED	Kenya	KEN	None	INCLUDED
+248	KE032833	East African Zebu	Orma Boran	KEN-OrmanBoran17	GRRFAC	0.00133848	PASSED	Kenya	KEN	None	INCLUDED
+249	KE033036	East African Zebu	Orma Boran	KEN-OrmanBoran18	GRRFAC	0.00144121	PASSED	Kenya	KEN	None	INCLUDED
+250	KE033137	East African Zebu	Orma Boran	KEN-OrmanBoran19	GRRFAC	0.00185061	PASSED	Kenya	KEN	None	INCLUDED
+251	KE033339	East African Zebu	Orma Boran	KEN-OrmanBoran20	GRRFAC	0.00125691	PASSED	Kenya	KEN	None	INCLUDED
+252	KE033440	East African Zebu	Orma Boran	KEN-OrmanBoran21	GRRFAC	0.00168141	PASSED	Kenya	KEN	None	INCLUDED
+253	KE033541	East African Zebu	Orma Boran	KEN-OrmanBoran22	GRRFAC	0.00395502	PASSED	Kenya	KEN	None	INCLUDED
+254	KE033642	East African Zebu	Orma Boran	KEN-OrmanBoran23	GRRFAC	0.00144423	PASSED	Kenya	KEN	None	INCLUDED
+590	Benshangul_27	East African Zebu	Benshangul	ETH-Benshangul01	PUBLIC	0.0753917	PASSED	Ethiopia	ETH	None	INCLUDED
+591	Benshangul_28	East African Zebu	Benshangul	ETH-Benshangul02	PUBLIC	0.0754008	PASSED	Ethiopia	ETH	None	INCLUDED
+592	Benshangul_29	East African Zebu	Benshangul	ETH-Benshangul03	PUBLIC	0.0754068	PASSED	Ethiopia	ETH	None	INCLUDED
+593	Benshangul_31	East African Zebu	Benshangul	ETH-Benshangul04	PUBLIC	0.0757452	PASSED	Ethiopia	ETH	None	INCLUDED
+594	Benshangul_32	East African Zebu	Benshangul	ETH-Benshangul05	PUBLIC	0.0757875	PASSED	Ethiopia	ETH	None	INCLUDED
+595	Benshangul_33	East African Zebu	Benshangul	ETH-Benshangul06	PUBLIC	0.0756455	PASSED	Ethiopia	ETH	None	INCLUDED
+596	Benshangul_34	East African Zebu	Benshangul	ETH-Benshangul07	PUBLIC	0.0755322	PASSED	Ethiopia	ETH	None	INCLUDED
+597	Benshangul_35	East African Zebu	Benshangul	ETH-Benshangul08	PUBLIC	0.0755035	PASSED	Ethiopia	ETH	None	INCLUDED
+598	Benshangul_36	East African Zebu	Benshangul	ETH-Benshangul09	PUBLIC	0.0755322	PASSED	Ethiopia	ETH	None	INCLUDED
+599	Benshangul_37	East African Zebu	Benshangul	ETH-Benshangul10	PUBLIC	0.0770444	PASSED	Ethiopia	ETH	None	INCLUDED
+600	Benshangul_38	East African Zebu	Benshangul	ETH-Benshangul11	PUBLIC	0.233277	FILTERED	Ethiopia	ETH	high proportion of missing variants (PHI=0.233277)	EXCLUDED
+601	Benshangul_39	East African Zebu	Benshangul	ETH-Benshangul12	PUBLIC	0.217967	FILTERED	Ethiopia	ETH	high proportion of missing variants (PHI=0.217967)	EXCLUDED
+650	ESZ1085	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu01	PUBLIC	0.00322082	PASSED	Kenya	KEN	None	INCLUDED
+651	ESZ1109	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu02	PUBLIC	0.00266639	PASSED	Kenya	KEN	None	INCLUDED
+652	ESZ1120	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu03	PUBLIC	0.00266941	PASSED	Kenya	KEN	None	INCLUDED
+653	ESZ1122	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu04	PUBLIC	0.00203341	PASSED	Kenya	KEN	None	INCLUDED
+654	ESZ1124	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu05	PUBLIC	0.00184608	PASSED	Kenya	KEN	None	INCLUDED
+655	ESZ1126	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu06	PUBLIC	0.0017645	PASSED	Kenya	KEN	None	INCLUDED
+656	ESZ1133	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu07	PUBLIC	0.00137927	PASSED	Kenya	KEN	None	INCLUDED
+657	ESZ1139	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu08	PUBLIC	0.00456233	PASSED	Kenya	KEN	None	INCLUDED
+658	ESZ1141	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu09	PUBLIC	0.00381604	PASSED	Kenya	KEN	None	INCLUDED
+659	ESZ1148	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu10	PUBLIC	0.00358037	PASSED	Kenya	KEN	None	INCLUDED
+660	ESZ1151	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu11	PUBLIC	0.00270265	PASSED	Kenya	KEN	None	INCLUDED
+661	ESZ1155	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu12	PUBLIC	0.00345347	PASSED	Kenya	KEN	None	INCLUDED
+662	ESZ1159	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu13	PUBLIC	0.0026392	PASSED	Kenya	KEN	None	INCLUDED
+663	ESZ1161	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu14	PUBLIC	0.00274344	PASSED	Kenya	KEN	None	INCLUDED
+664	ESZ1171	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu15	PUBLIC	0.00196089	PASSED	Kenya	KEN	None	INCLUDED
+665	ESZ1173	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu16	PUBLIC	0.0050246	PASSED	Kenya	KEN	None	INCLUDED
+666	ESZ1175	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu17	PUBLIC	0.00427982	PASSED	Kenya	KEN	None	INCLUDED
+667	ESZ1179	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu18	PUBLIC	0.00382057	PASSED	Kenya	KEN	None	INCLUDED
+668	ESZ1187	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu19	PUBLIC	0.125934	PASSED	Kenya	KEN	None	INCLUDED
+669	ESZ1189	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu20	PUBLIC	0.00307126	PASSED	Kenya	KEN	None	INCLUDED
+670	ESZ1197	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu21	PUBLIC	0.00273589	PASSED	Kenya	KEN	None	INCLUDED
+671	ESZ1199	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu22	PUBLIC	0.0026392	PASSED	Kenya	KEN	None	INCLUDED
+672	ESZ1401	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu23	PUBLIC	0.00248813	PASSED	Kenya	KEN	None	INCLUDED
+673	ESZ1405	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu24	PUBLIC	0.00582074	PASSED	Kenya	KEN	None	INCLUDED
+674	ESZ1411	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu25	PUBLIC	0.00462124	PASSED	Kenya	KEN	None	INCLUDED
+675	ESZ1417	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu26	PUBLIC	0.00397315	PASSED	Kenya	KEN	None	INCLUDED
+676	ESZ1419	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu27	PUBLIC	0.00361058	PASSED	Kenya	KEN	None	INCLUDED
+677	ESZ1423	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu28	PUBLIC	0.00331297	PASSED	Kenya	KEN	None	INCLUDED
+678	ESZ1429	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu29	PUBLIC	0.00316644	PASSED	Kenya	KEN	None	INCLUDED
+679	ESZ1437	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu30	PUBLIC	0.00241864	PASSED	Kenya	KEN	None	INCLUDED
+680	ESZ1448	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu31	PUBLIC	0.00221016	PASSED	Kenya	KEN	None	INCLUDED
+681	ESZ1476	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu32	PUBLIC	0.00377374	PASSED	Kenya	KEN	None	INCLUDED
+682	ESZ1494	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu33	PUBLIC	0.0039656	PASSED	Kenya	KEN	None	INCLUDED
+683	ESZ1609	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu34	PUBLIC	0.0031196	PASSED	Kenya	KEN	None	INCLUDED
+684	ESZ1611	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu35	PUBLIC	0.00257122	PASSED	Kenya	KEN	None	INCLUDED
+685	ESZ1617	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu36	PUBLIC	0.00231742	PASSED	Kenya	KEN	None	INCLUDED
+686	ESZ1622	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu37	PUBLIC	0.00197298	PASSED	Kenya	KEN	None	INCLUDED
+687	ESZ1624	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu38	PUBLIC	0.00199866	PASSED	Kenya	KEN	None	INCLUDED
+688	ESZ1626	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu39	PUBLIC	0.00192615	PASSED	Kenya	KEN	None	INCLUDED
+689	ESZ1634	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu40	PUBLIC	0.00515603	PASSED	Kenya	KEN	None	INCLUDED
+690	ESZ1653	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu41	PUBLIC	0.00536904	PASSED	Kenya	KEN	None	INCLUDED
+691	ESZ1669	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu42	PUBLIC	0.00398826	PASSED	Kenya	KEN	None	INCLUDED
+692	ESZ1675	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu43	PUBLIC	0.00438406	PASSED	Kenya	KEN	None	INCLUDED
+693	ESZ1679	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu44	PUBLIC	0.00357735	PASSED	Kenya	KEN	None	INCLUDED
+694	ESZ1693	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu45	PUBLIC	0.00339455	PASSED	Kenya	KEN	None	INCLUDED
+695	ESZ1903	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu46	PUBLIC	0.00317097	PASSED	Kenya	KEN	None	INCLUDED
+696	ESZ1927	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu47	PUBLIC	0.00319212	PASSED	Kenya	KEN	None	INCLUDED
+697	ESZ1964	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu48	PUBLIC	0.00127503	PASSED	Kenya	KEN	None	INCLUDED
+698	ESZ1993	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu49	PUBLIC	0.00338549	PASSED	Kenya	KEN	None	INCLUDED
+699	ESZ2025	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu50	PUBLIC	0.00287638	PASSED	Kenya	KEN	None	INCLUDED
+700	ESZ2043	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu51	PUBLIC	0.00259992	PASSED	Kenya	KEN	None	INCLUDED
+701	ESZ2063	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu52	PUBLIC	0.00221922	PASSED	Kenya	KEN	None	INCLUDED
+702	ESZ2073	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu53	PUBLIC	0.00238238	PASSED	Kenya	KEN	None	INCLUDED
+703	ESZ2093	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu54	PUBLIC	0.00234612	PASSED	Kenya	KEN	None	INCLUDED
+704	ESZ214	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu55	PUBLIC	0.00151675	PASSED	Kenya	KEN	None	INCLUDED
+705	ESZ2183	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu56	PUBLIC	0.00233404	PASSED	Kenya	KEN	None	INCLUDED
+706	ESZ220	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu57	PUBLIC	0.00316795	PASSED	Kenya	KEN	None	INCLUDED
+707	ESZ224	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu58	PUBLIC	0.00299573	PASSED	Kenya	KEN	None	INCLUDED
+708	ESZ228	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu59	PUBLIC	0.00269963	PASSED	Kenya	KEN	None	INCLUDED
+709	ESZ232	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu60	PUBLIC	0.0025682	PASSED	Kenya	KEN	None	INCLUDED
+710	ESZ238	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu61	PUBLIC	0.00216937	PASSED	Kenya	KEN	None	INCLUDED
+711	ESZ239	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu62	PUBLIC	0.0026815	PASSED	Kenya	KEN	None	INCLUDED
+712	ESZ2402	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu63	PUBLIC	0.00206362	PASSED	Kenya	KEN	None	INCLUDED
+713	ESZ244	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu64	PUBLIC	0.00404718	PASSED	Kenya	KEN	None	INCLUDED
+714	ESZ256	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu65	PUBLIC	0.00408343	PASSED	Kenya	KEN	None	INCLUDED
+715	ESZ257	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu66	PUBLIC	0.00402452	PASSED	Kenya	KEN	None	INCLUDED
+716	ESZ268	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu67	PUBLIC	0.00316946	PASSED	Kenya	KEN	None	INCLUDED
+717	ESZ280	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu68	PUBLIC	0.0029353	PASSED	Kenya	KEN	None	INCLUDED
+718	ESZ284	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu69	PUBLIC	0.00258935	PASSED	Kenya	KEN	None	INCLUDED
+719	ESZ289	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu70	PUBLIC	0.00222527	PASSED	Kenya	KEN	None	INCLUDED
+720	ESZ297	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu71	PUBLIC	0.00220563	PASSED	Kenya	KEN	None	INCLUDED
+721	ESZ300	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu72	PUBLIC	0.0028084	PASSED	Kenya	KEN	None	INCLUDED
+722	ESZ306	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu73	PUBLIC	0.00355771	PASSED	Kenya	KEN	None	INCLUDED
+723	ESZ318	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu74	PUBLIC	0.00357282	PASSED	Kenya	KEN	None	INCLUDED
+724	ESZ324	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu75	PUBLIC	0.00279631	PASSED	Kenya	KEN	None	INCLUDED
+725	ESZ328	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu76	PUBLIC	0.00274193	PASSED	Kenya	KEN	None	INCLUDED
+726	ESZ330	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu77	PUBLIC	0.00252439	PASSED	Kenya	KEN	None	INCLUDED
+727	ESZ331	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu78	PUBLIC	0.00215124	PASSED	Kenya	KEN	None	INCLUDED
+728	ESZ341	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu79	PUBLIC	0.00147747	PASSED	Kenya	KEN	None	INCLUDED
+729	ESZ346	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu80	PUBLIC	0.00189744	PASSED	Kenya	KEN	None	INCLUDED
+730	ESZ350	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu81	PUBLIC	0.00205003	PASSED	Kenya	KEN	None	INCLUDED
+731	ESZ352	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu82	PUBLIC	0.00147747	PASSED	Kenya	KEN	None	INCLUDED
+732	ESZ354	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu83	PUBLIC	0.00237332	PASSED	Kenya	KEN	None	INCLUDED
+733	ESZ356	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu84	PUBLIC	0.000565003	PASSED	Kenya	KEN	None	INCLUDED
+734	ESZ364	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu85	PUBLIC	0.000654135	PASSED	Kenya	KEN	None	INCLUDED
+735	ESZ378	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu86	PUBLIC	0.00142157	PASSED	Kenya	KEN	None	INCLUDED
+736	ESZ399	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu87	PUBLIC	0.0015243	PASSED	Kenya	KEN	None	INCLUDED
+737	ESZ403	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu88	PUBLIC	0.0029353	PASSED	Kenya	KEN	None	INCLUDED
+738	ESZ417	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu89	PUBLIC	0.00253496	PASSED	Kenya	KEN	None	INCLUDED
+739	ESZ421	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu90	PUBLIC	0.00218297	PASSED	Kenya	KEN	None	INCLUDED
+740	ESZ428	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu91	PUBLIC	0.00129921	PASSED	Kenya	KEN	None	INCLUDED
+741	ESZ441	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu92	PUBLIC	0.00206513	PASSED	Kenya	KEN	None	INCLUDED
+742	ESZ444	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu93	PUBLIC	0.00177357	PASSED	Kenya	KEN	None	INCLUDED
+743	ESZ446	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu94	PUBLIC	0.00219052	PASSED	Kenya	KEN	None	INCLUDED
+744	ESZ457	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu95	PUBLIC	0.0031468	PASSED	Kenya	KEN	None	INCLUDED
+745	ESZ461	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu96	PUBLIC	0.00495209	PASSED	Kenya	KEN	None	INCLUDED
+746	ESZ471	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu97	PUBLIC	0.00396711	PASSED	Kenya	KEN	None	INCLUDED
+747	ESZ475	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu98	PUBLIC	0.00143668	PASSED	Kenya	KEN	None	INCLUDED
+748	ESZ497	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu99	PUBLIC	0.00308788	PASSED	Kenya	KEN	None	INCLUDED
+749	ESZ500	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu100	PUBLIC	0.0011995	PASSED	Kenya	KEN	None	INCLUDED
+750	ESZ524	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu101	PUBLIC	0.00311507	PASSED	Kenya	KEN	None	INCLUDED
+751	ESZ668	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu102	PUBLIC	0.00252439	PASSED	Kenya	KEN	None	INCLUDED
+752	ESZ70	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu103	PUBLIC	0.00159228	PASSED	Kenya	KEN	None	INCLUDED
+753	ESZ74	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu104	PUBLIC	0.00478138	PASSED	Kenya	KEN	None	INCLUDED
+754	ESZ76	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu105	PUBLIC	0.00406833	PASSED	Kenya	KEN	None	INCLUDED
+755	ESZ88	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu106	PUBLIC	0.00216786	PASSED	Kenya	KEN	None	INCLUDED
+756	ESZ90	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu107	PUBLIC	0.00162099	PASSED	Kenya	KEN	None	INCLUDED
+757	ESZ915	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu108	PUBLIC	0.00220412	PASSED	Kenya	KEN	None	INCLUDED
+758	ESZ923	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu109	PUBLIC	0.00226757	PASSED	Kenya	KEN	None	INCLUDED
+759	ESZ931	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu110	PUBLIC	0.0018914	PASSED	Kenya	KEN	None	INCLUDED
+760	ESZ944	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu111	PUBLIC	0.00169803	PASSED	Kenya	KEN	None	INCLUDED
+761	ESZ966	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu112	PUBLIC	0.00179623	PASSED	Kenya	KEN	None	INCLUDED
+762	ESZ999	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu113	PUBLIC	0.0046711	PASSED	Kenya	KEN	None	INCLUDED
+763	ESZx194	East African Zebu	East Africa Shorthorn Zebu	KEN-EASZebu114	PUBLIC	0.00170256	PASSED	Kenya	KEN	None	INCLUDED
+788	Fogera_50	East African Zebu	Fogera	ETH-Fogera10	PUBLIC	0.0754899	PASSED	Ethiopia	ETH	None	INCLUDED
+789	Fogera_51	East African Zebu	Fogera	ETH-Fogera11	PUBLIC	0.0753449	PASSED	Ethiopia	ETH	None	INCLUDED
+790	Fogera_52	East African Zebu	Fogera	ETH-Fogera12	PUBLIC	0.0756425	PASSED	Ethiopia	ETH	None	INCLUDED
+791	Fogera_53	East African Zebu	Fogera	ETH-Fogera13	PUBLIC	0.076428	PASSED	Ethiopia	ETH	None	INCLUDED
+792	Fogera_54	East African Zebu	Fogera	ETH-Fogera14	PUBLIC	0.0771849	PASSED	Ethiopia	ETH	None	INCLUDED
+793	Fogera_55	East African Zebu	Fogera	ETH-Fogera15	PUBLIC	0.0761818	PASSED	Ethiopia	ETH	None	INCLUDED
+794	Fogera_56	East African Zebu	Fogera	ETH-Fogera16	PUBLIC	0.0758676	PASSED	Ethiopia	ETH	None	INCLUDED
+795	Fogera_57	East African Zebu	Fogera	ETH-Fogera17	PUBLIC	0.0758509	PASSED	Ethiopia	ETH	None	INCLUDED
+796	Fogera_58	East African Zebu	Fogera	ETH-Fogera18	PUBLIC	0.0758796	PASSED	Ethiopia	ETH	None	INCLUDED
+797	Fogera_59	East African Zebu	Fogera	ETH-Fogera19	PUBLIC	0.0757135	PASSED	Ethiopia	ETH	None	INCLUDED
+798	Fogera_60	East African Zebu	Fogera	ETH-Fogera20	PUBLIC	0.0758842	PASSED	Ethiopia	ETH	None	INCLUDED
+799	Gindeberet_10B	East African Zebu	Gindeberet	ETH-Gindeberet09	PUBLIC	0.0756772	PASSED	Ethiopia	ETH	None	INCLUDED
+800	Gindeberet_11B	East African Zebu	Gindeberet	ETH-Gindeberet10	PUBLIC	0.0756107	PASSED	Ethiopia	ETH	None	INCLUDED
+801	Gindeberet_12B	East African Zebu	Gindeberet	ETH-Gindeberet11	PUBLIC	0.0753766	PASSED	Ethiopia	ETH	None	INCLUDED
+802	Gindeberet_13B	East African Zebu	Gindeberet	ETH-Gindeberet12	PUBLIC	0.0753569	PASSED	Ethiopia	ETH	None	INCLUDED
+803	Gindeberet_14B	East African Zebu	Gindeberet	ETH-Gindeberet13	PUBLIC	0.0753403	PASSED	Ethiopia	ETH	None	INCLUDED
+804	Gindeberet_15B	East African Zebu	Gindeberet	ETH-Gindeberet14	PUBLIC	0.0752406	PASSED	Ethiopia	ETH	None	INCLUDED
+805	Gindeberet_16B	East African Zebu	Gindeberet	ETH-Gindeberet15	PUBLIC	0.0753464	PASSED	Ethiopia	ETH	None	INCLUDED
+806	Gindeberet_17B	East African Zebu	Gindeberet	ETH-Gindeberet16	PUBLIC	0.075502	PASSED	Ethiopia	ETH	None	INCLUDED
+807	Gindeberet_18B	East African Zebu	Gindeberet	ETH-Gindeberet17	PUBLIC	0.07557	PASSED	Ethiopia	ETH	None	INCLUDED
+808	Gindeberet_19B	East African Zebu	Gindeberet	ETH-Gindeberet18	PUBLIC	0.0756561	PASSED	Ethiopia	ETH	None	INCLUDED
+809	Gindeberet_20B	East African Zebu	Gindeberet	ETH-Gindeberet19	PUBLIC	0.0754582	PASSED	Ethiopia	ETH	None	INCLUDED
+810	Gindeberet_2B	East African Zebu	Gindeberet	ETH-Gindeberet01	PUBLIC	0.0756953	PASSED	Ethiopia	ETH	None	INCLUDED
+811	Gindeberet_3B	East African Zebu	Gindeberet	ETH-Gindeberet02	PUBLIC	0.0758117	PASSED	Ethiopia	ETH	None	INCLUDED
+812	Gindeberet_4B	East African Zebu	Gindeberet	ETH-Gindeberet03	PUBLIC	0.0755292	PASSED	Ethiopia	ETH	None	INCLUDED
+813	Gindeberet_5B	East African Zebu	Gindeberet	ETH-Gindeberet04	PUBLIC	0.0754823	PASSED	Ethiopia	ETH	None	INCLUDED
+814	Gindeberet_6B	East African Zebu	Gindeberet	ETH-Gindeberet05	PUBLIC	0.0754083	PASSED	Ethiopia	ETH	None	INCLUDED
+815	Gindeberet_7B	East African Zebu	Gindeberet	ETH-Gindeberet06	PUBLIC	0.0752935	PASSED	Ethiopia	ETH	None	INCLUDED
+816	Gindeberet_8B	East African Zebu	Gindeberet	ETH-Gindeberet07	PUBLIC	0.0753237	PASSED	Ethiopia	ETH	None	INCLUDED
+817	Gindeberet_9B	East African Zebu	Gindeberet	ETH-Gindeberet08	PUBLIC	0.0754763	PASSED	Ethiopia	ETH	None	INCLUDED
+843	KRZX1004292	East African Zebu	Karamajong Zebu	UGD-KarmjZebu01	PUBLIC	0.00184608	PASSED	Uganda	UGD	None	INCLUDED
+844	KRZX1004298	East African Zebu	Karamajong Zebu	UGD-KarmjZebu02	PUBLIC	0.00251079	PASSED	Uganda	UGD	None	INCLUDED
+845	KRZX1004299	East African Zebu	Karamajong Zebu	UGD-KarmjZebu03	PUBLIC	0.00318305	PASSED	Uganda	UGD	None	INCLUDED
+846	KRZX1004301	East African Zebu	Karamajong Zebu	UGD-KarmjZebu04	PUBLIC	0.00475268	PASSED	Uganda	UGD	None	INCLUDED
+847	KRZX1004305	East African Zebu	Karamajong Zebu	UGD-KarmjZebu05	PUBLIC	0.00248964	PASSED	Uganda	UGD	None	INCLUDED
+848	KRZX1004307	East African Zebu	Karamajong Zebu	UGD-KarmjZebu06	PUBLIC	0.00256669	PASSED	Uganda	UGD	None	INCLUDED
+849	KRZX1004310	East African Zebu	Karamajong Zebu	UGD-KarmjZebu07	PUBLIC	0.00810493	PASSED	Uganda	UGD	None	INCLUDED
+850	KRZX1004314	East African Zebu	Karamajong Zebu	UGD-KarmjZebu08	PUBLIC	0.00371482	PASSED	Uganda	UGD	None	INCLUDED
+851	KRZX1004317	East African Zebu	Karamajong Zebu	UGD-KarmjZebu09	PUBLIC	0.00349275	PASSED	Uganda	UGD	None	INCLUDED
+852	KRZX1004318	East African Zebu	Karamajong Zebu	UGD-KarmjZebu10	PUBLIC	0.00334621	PASSED	Uganda	UGD	None	INCLUDED
+853	KRZX1004322	East African Zebu	Karamajong Zebu	UGD-KarmjZebu11	PUBLIC	0.00286127	PASSED	Uganda	UGD	None	INCLUDED
+854	KRZX1004324	East African Zebu	Karamajong Zebu	UGD-KarmjZebu12	PUBLIC	0.00230231	PASSED	Uganda	UGD	None	INCLUDED
+855	KRZX1004330	East African Zebu	Karamajong Zebu	UGD-KarmjZebu13	PUBLIC	0.00270718	PASSED	Uganda	UGD	None	INCLUDED
+856	KRZX1004331	East African Zebu	Karamajong Zebu	UGD-KarmjZebu14	PUBLIC	0.0040653	PASSED	Uganda	UGD	None	INCLUDED
+857	KRZX1004334	East African Zebu	Karamajong Zebu	UGD-KarmjZebu15	PUBLIC	0.0035713	PASSED	Uganda	UGD	None	INCLUDED
+858	KRZX1004337	East African Zebu	Karamajong Zebu	UGD-KarmjZebu16	PUBLIC	0.0024987	PASSED	Uganda	UGD	None	INCLUDED
+933	NGDX1000709	East African Zebu	Nganda	UGD-Nganda01	PUBLIC	0.00316795	PASSED	Uganda	UGD	None	INCLUDED
+934	NGDX1000711	East African Zebu	Nganda	UGD-Nganda02	PUBLIC	0.00389762	PASSED	Uganda	UGD	None	INCLUDED
+935	NGDX1000712	East African Zebu	Nganda	UGD-Nganda03	PUBLIC	0.00440068	PASSED	Uganda	UGD	None	INCLUDED
+936	NGDX1000713	East African Zebu	Nganda	UGD-Nganda04	PUBLIC	0.00445507	PASSED	Uganda	UGD	None	INCLUDED
+937	NGDX1000714	East African Zebu	Nganda	UGD-Nganda05	PUBLIC	0.0141976	PASSED	Uganda	UGD	None	INCLUDED
+938	NGDX1000715	East African Zebu	Nganda	UGD-Nganda06	PUBLIC	0.00323593	PASSED	Uganda	UGD	None	INCLUDED
+939	NGDX1000716	East African Zebu	Nganda	UGD-Nganda07	PUBLIC	0.0041348	PASSED	Uganda	UGD	None	INCLUDED
+940	NGDX1000717	East African Zebu	Nganda	UGD-Nganda08	PUBLIC	0.0128213	PASSED	Uganda	UGD	None	INCLUDED
+941	NGDX1000718	East African Zebu	Nganda	UGD-Nganda09	PUBLIC	0.0326644	PASSED	Uganda	UGD	None	INCLUDED
+942	NGDX1007254	East African Zebu	Nganda	UGD-Nganda10	PUBLIC	0.00374201	PASSED	Uganda	UGD	None	INCLUDED
+943	NGDX1007255	East African Zebu	Nganda	UGD-Nganda11	PUBLIC	0.0240172	PASSED	Uganda	UGD	None	INCLUDED
+944	NGDX1007256	East African Zebu	Nganda	UGD-Nganda12	PUBLIC	0.00425414	PASSED	Uganda	UGD	None	INCLUDED
+945	NGDX1012065	East African Zebu	Nganda	UGD-Nganda13	PUBLIC	0.00414688	PASSED	Uganda	UGD	None	INCLUDED
+946	NGDX1012069	East African Zebu	Nganda	UGD-Nganda14	PUBLIC	0.00318154	PASSED	Uganda	UGD	None	INCLUDED
+947	NGDX1012071	East African Zebu	Nganda	UGD-Nganda15	PUBLIC	0.00380849	PASSED	Uganda	UGD	None	INCLUDED
+948	NGDX1012075	East African Zebu	Nganda	UGD-Nganda16	PUBLIC	0.00965189	PASSED	Uganda	UGD	None	INCLUDED
+949	NGDX1012078	East African Zebu	Nganda	UGD-Nganda17	PUBLIC	0.00442334	PASSED	Uganda	UGD	None	INCLUDED
+950	NGDX1012079	East African Zebu	Nganda	UGD-Nganda18	PUBLIC	0.00397466	PASSED	Uganda	UGD	None	INCLUDED
+951	NGDX1012080	East African Zebu	Nganda	UGD-Nganda19	PUBLIC	0.00335376	PASSED	Uganda	UGD	None	INCLUDED
+952	NGDX1012081	East African Zebu	Nganda	UGD-Nganda20	PUBLIC	0.00299422	PASSED	Uganda	UGD	None	INCLUDED
+953	NGDX1012083	East African Zebu	Nganda	UGD-Nganda21	PUBLIC	0.00447773	PASSED	Uganda	UGD	None	INCLUDED
+954	NGDX1012090	East African Zebu	Nganda	UGD-Nganda22	PUBLIC	0.00554579	PASSED	Uganda	UGD	None	INCLUDED
+955	NGDX1012091	East African Zebu	Nganda	UGD-Nganda23	PUBLIC	0.00328729	PASSED	Uganda	UGD	None	INCLUDED
+956	Nuer_14	East African Zebu	Nuer	ETH-Nuer01	PUBLIC	0.0756274	PASSED	Ethiopia	ETH	None	INCLUDED
+957	Nuer_15	East African Zebu	Nuer	ETH-Nuer02	PUBLIC	0.197463	PASSED	Ethiopia	ETH	None	INCLUDED
+958	Nuer_16	East African Zebu	Nuer	ETH-Nuer03	PUBLIC	0.0755805	PASSED	Ethiopia	ETH	None	INCLUDED
+959	Nuer_17	East African Zebu	Nuer	ETH-Nuer04	PUBLIC	0.0754627	PASSED	Ethiopia	ETH	None	INCLUDED
+960	Nuer_18	East African Zebu	Nuer	ETH-Nuer05	PUBLIC	0.0754808	PASSED	Ethiopia	ETH	None	INCLUDED
+961	Nuer_19	East African Zebu	Nuer	ETH-Nuer06	PUBLIC	0.0754023	PASSED	Ethiopia	ETH	None	INCLUDED
+962	Nuer_20	East African Zebu	Nuer	ETH-Nuer07	PUBLIC	0.0754068	PASSED	Ethiopia	ETH	None	INCLUDED
+963	Nuer_21	East African Zebu	Nuer	ETH-Nuer08	PUBLIC	0.0755564	PASSED	Ethiopia	ETH	None	INCLUDED
+964	Nuer_22	East African Zebu	Nuer	ETH-Nuer09	PUBLIC	0.0755896	PASSED	Ethiopia	ETH	None	INCLUDED
+965	Nuer_23	East African Zebu	Nuer	ETH-Nuer10	PUBLIC	0.0756712	PASSED	Ethiopia	ETH	None	INCLUDED
+966	Nuer_24	East African Zebu	Nuer	ETH-Nuer11	PUBLIC	0.075579	PASSED	Ethiopia	ETH	None	INCLUDED
+967	Nuer_25	East African Zebu	Nuer	ETH-Nuer12	PUBLIC	0.0755382	PASSED	Ethiopia	ETH	None	INCLUDED
+968	Nuer_26	East African Zebu	Nuer	ETH-Nuer13	PUBLIC	0.0754083	PASSED	Ethiopia	ETH	None	INCLUDED
+1021	SHWX1012040	East African Zebu	Sahiwal	UGD-Sahiwal01	PUBLIC	0.00489317	PASSED	Uganda	UGD	None	INCLUDED
+1022	SHWX1012042	East African Zebu	Sahiwal	UGD-Sahiwal02	PUBLIC	0.00377223	PASSED	Uganda	UGD	None	INCLUDED
+1023	SHWX1012043	East African Zebu	Sahiwal	UGD-Sahiwal03	PUBLIC	0.00349275	PASSED	Uganda	UGD	None	INCLUDED
+1024	SHWX1012044	East African Zebu	Sahiwal	UGD-Sahiwal04	PUBLIC	0.00494302	PASSED	Uganda	UGD	None	INCLUDED
+1025	SHWX1012045	East African Zebu	Sahiwal	UGD-Sahiwal05	PUBLIC	0.00556543	PASSED	Uganda	UGD	None	INCLUDED
+1026	SHWX1012047	East African Zebu	Sahiwal	UGD-Sahiwal06	PUBLIC	0.00353656	PASSED	Uganda	UGD	None	INCLUDED
+1027	SHWX1012051	East African Zebu	Sahiwal	UGD-Sahiwal07	PUBLIC	0.00410458	PASSED	Uganda	UGD	None	INCLUDED
+1028	SHWX1012053	East African Zebu	Sahiwal	UGD-Sahiwal08	PUBLIC	0.00369065	PASSED	Uganda	UGD	None	INCLUDED
+1029	SHWX1012054	East African Zebu	Sahiwal	UGD-Sahiwal09	PUBLIC	0.00344138	PASSED	Uganda	UGD	None	INCLUDED
+1030	SHWX1012055	East African Zebu	Sahiwal	UGD-Sahiwal10	PUBLIC	0.0036831	PASSED	Uganda	UGD	None	INCLUDED
+1031	SHWX1012056	East African Zebu	Sahiwal	UGD-Sahiwal11	PUBLIC	0.00438708	PASSED	Uganda	UGD	None	INCLUDED
+1032	SHWX1012057	East African Zebu	Sahiwal	UGD-Sahiwal12	PUBLIC	0.0332098	PASSED	Uganda	UGD	None	INCLUDED
+1033	SHWX1012059	East African Zebu	Sahiwal	UGD-Sahiwal13	PUBLIC	0.00368612	PASSED	Uganda	UGD	None	INCLUDED
+1055	SRZX1004289	East African Zebu	Serere Zebu	UGD-SerereZebu01	PUBLIC	0.00532825	PASSED	Uganda	UGD	None	INCLUDED
+1056	SRZX1004338	East African Zebu	Serere Zebu	UGD-SerereZebu02	PUBLIC	0.0518111	PASSED	Uganda	UGD	None	INCLUDED
+1057	SRZX1012028	East African Zebu	Serere Zebu	UGD-SerereZebu03	PUBLIC	0.00528595	PASSED	Uganda	UGD	None	INCLUDED
+1058	SRZX1012029	East African Zebu	Serere Zebu	UGD-SerereZebu04	PUBLIC	0.00454571	PASSED	Uganda	UGD	None	INCLUDED
+1059	SRZX1012030	East African Zebu	Serere Zebu	UGD-SerereZebu05	PUBLIC	0.00657609	PASSED	Uganda	UGD	None	INCLUDED
+1060	SRZX1012032	East African Zebu	Serere Zebu	UGD-SerereZebu06	PUBLIC	0.00470886	PASSED	Uganda	UGD	None	INCLUDED
+1061	SRZX1012033	East African Zebu	Serere Zebu	UGD-SerereZebu07	PUBLIC	0.00469225	PASSED	Uganda	UGD	None	INCLUDED
+1062	SRZX1012034	East African Zebu	Serere Zebu	UGD-SerereZebu08	PUBLIC	0.00537811	PASSED	Uganda	UGD	None	INCLUDED
+1063	SRZX1012035	East African Zebu	Serere Zebu	UGD-SerereZebu09	PUBLIC	0.00389308	PASSED	Uganda	UGD	None	INCLUDED
+1064	SRZX1012036	East African Zebu	Serere Zebu	UGD-SerereZebu10	PUBLIC	0.00595822	PASSED	Uganda	UGD	None	INCLUDED
+1065	SRZX1012038	East African Zebu	Serere Zebu	UGD-SerereZebu11	PUBLIC	0.00433119	PASSED	Uganda	UGD	None	INCLUDED
+1066	SRZX1012062	East African Zebu	Serere Zebu	UGD-SerereZebu12	PUBLIC	0.00492641	PASSED	Uganda	UGD	None	INCLUDED
+1067	SRZX1012063	East African Zebu	Serere Zebu	UGD-SerereZebu13	PUBLIC	0.00619842	PASSED	Uganda	UGD	None	INCLUDED
+32	BF042201	West African Admixed	Gourounsi	BFK-Gourounsi11	GRRFAC	0.000737224	PASSED	Burkina Faso	BFK	None	INCLUDED
+315	SN011327	West African Admixed	Djakkore	SEN-Djakkore11	GRRFAC	0.00125691	PASSED	Senegal	SEN	None	INCLUDED
+394	TD01-11	Central African Admixed	Kuri	CHD-Kuri13	GRRFAC	0.001553	PASSED	Chad	CHD	None	INCLUDED
+395	TD019102	Central African Admixed	Kuri	CHD-Kuri14	GRRFAC	0.00248209	PASSED	Chad	CHD	None	INCLUDED
+396	TD019103	Central African Admixed	Kuri	CHD-Kuri15	GRRFAC	0.00218297	PASSED	Chad	CHD	None	INCLUDED
+397	TD019104	Central African Admixed	Kuri	CHD-Kuri16	GRRFAC	0.0011013	PASSED	Chad	CHD	None	INCLUDED
+398	TD019105	Central African Admixed	Kuri	CHD-Kuri17	GRRFAC	0.00147143	PASSED	Chad	CHD	None	INCLUDED
+399	TD019107	Central African Admixed	Kuri	CHD-Kuri18	GRRFAC	0.00109224	PASSED	Chad	CHD	None	INCLUDED
+400	TD019108	Central African Admixed	Kuri	CHD-Kuri19	GRRFAC	0.00129921	PASSED	Chad	CHD	None	INCLUDED
+401	TD019108-2	Central African Admixed	Kuri	CHD-Kuri20	GRRFAC	0.00121461	PASSED	Chad	CHD	None	INCLUDED
+402	TD019109	Central African Admixed	Kuri	CHD-Kuri21	GRRFAC	0.00117835	PASSED	Chad	CHD	None	INCLUDED
+403	TD019110	Central African Admixed	Kuri	CHD-Kuri22	GRRFAC	0.0011995	PASSED	Chad	CHD	None	INCLUDED
+404	TD019111	Central African Admixed	Kuri	CHD-Kuri23	GRRFAC	0.00139287	PASSED	Chad	CHD	None	INCLUDED
+405	TD019112	Central African Admixed	Kuri	CHD-Kuri01	GRRFAC	0.00131129	PASSED	Chad	CHD	None	INCLUDED
+406	TD019113	Central African Admixed	Kuri	CHD-Kuri24	GRRFAC	0.00137927	PASSED	Chad	CHD	None	INCLUDED
+407	TD019114	Central African Admixed	Kuri	CHD-Kuri25	GRRFAC	0.00598692	PASSED	Chad	CHD	None	INCLUDED
+408	TD019115	Central African Admixed	Kuri	CHD-Kuri26	GRRFAC	0.00109375	PASSED	Chad	CHD	None	INCLUDED
+409	TD019116	Central African Admixed	Kuri	CHD-Kuri27	GRRFAC	0.00138229	PASSED	Chad	CHD	None	INCLUDED
+410	TD019117	Central African Admixed	Kuri	CHD-Kuri28	GRRFAC	0.00210743	PASSED	Chad	CHD	None	INCLUDED
+411	TD019118	Central African Admixed	Kuri	CHD-Kuri29	GRRFAC	0.00394143	PASSED	Chad	CHD	None	INCLUDED
+412	TD019119	Central African Admixed	Kuri	CHD-Kuri02	GRRFAC	0.00104088	PASSED	Chad	CHD	None	INCLUDED
+413	TD019120	Central African Admixed	Kuri	CHD-Kuri30	GRRFAC	0.00103634	PASSED	Chad	CHD	None	INCLUDED
+414	TD019121	Central African Admixed	Kuri	CHD-Kuri31	GRRFAC	0.00151524	PASSED	Chad	CHD	None	INCLUDED
+415	TD019122	Central African Admixed	Kuri	CHD-Kuri32	GRRFAC	0.00143668	PASSED	Chad	CHD	None	INCLUDED
+416	TD019123	Central African Admixed	Kuri	CHD-Kuri33	GRRFAC	0.00126899	PASSED	Chad	CHD	None	INCLUDED
+417	TD019124	Central African Admixed	Kuri	CHD-Kuri34	GRRFAC	0.00116928	PASSED	Chad	CHD	None	INCLUDED
+418	TD019125	Central African Admixed	Kuri	CHD-Kuri35	GRRFAC	0.00193219	PASSED	Chad	CHD	None	INCLUDED
+419	TD019126	Central African Admixed	Kuri	CHD-Kuri03	GRRFAC	0.00163458	PASSED	Chad	CHD	None	INCLUDED
+420	TD019127	Central African Admixed	Kuri	CHD-Kuri36	GRRFAC	0.0015379	PASSED	Chad	CHD	None	INCLUDED
+421	TD019128	Central African Admixed	Kuri	CHD-Kuri37	GRRFAC	0.00120554	PASSED	Chad	CHD	None	INCLUDED
+422	TD019129	Central African Admixed	Kuri	CHD-Kuri38	GRRFAC	0.00262107	PASSED	Chad	CHD	None	INCLUDED
+423	TD019130	Central African Admixed	Kuri	CHD-Kuri39	GRRFAC	0.00186421	PASSED	Chad	CHD	None	INCLUDED
+424	TD019131	Central African Admixed	Kuri	CHD-Kuri40	GRRFAC	0.00198204	PASSED	Chad	CHD	None	INCLUDED
+425	TD019132	Central African Admixed	Kuri	CHD-Kuri41	GRRFAC	0.00152581	PASSED	Chad	CHD	None	INCLUDED
+426	TD019133	Central African Admixed	Kuri	CHD-Kuri42	GRRFAC	0.0015107	PASSED	Chad	CHD	None	INCLUDED
+427	TD019134	Central African Admixed	Kuri	CHD-Kuri04	GRRFAC	0.0010303	PASSED	Chad	CHD	None	INCLUDED
+428	TD019135	Central African Admixed	Kuri	CHD-Kuri43	GRRFAC	0.00189593	PASSED	Chad	CHD	None	INCLUDED
+429	TD019136	Central African Admixed	Kuri	CHD-Kuri44	GRRFAC	0.00109828	PASSED	Chad	CHD	None	INCLUDED
+430	TD019137	Central African Admixed	Kuri	CHD-Kuri45	GRRFAC	0.000992533	PASSED	Chad	CHD	None	INCLUDED
+431	TD019138	Central African Admixed	Kuri	CHD-Kuri46	GRRFAC	0.0297548	PASSED	Chad	CHD	None	INCLUDED
+432	TD019139	Central African Admixed	Kuri	CHD-Kuri47	GRRFAC	0.135052	PASSED	Chad	CHD	None	INCLUDED
+433	TD019140	Central African Admixed	Kuri	CHD-Kuri48	GRRFAC	0.00179774	PASSED	Chad	CHD	None	INCLUDED
+434	TD019141	Central African Admixed	Kuri	CHD-Kuri49	GRRFAC	0.00137927	PASSED	Chad	CHD	None	INCLUDED
+435	TD019142	Central African Admixed	Kuri	CHD-Kuri50	GRRFAC	0.00152883	PASSED	Chad	CHD	None	INCLUDED
+436	TD019143	Central African Admixed	Kuri	CHD-Kuri05	GRRFAC	0.00216484	PASSED	Chad	CHD	None	INCLUDED
+437	TD019144	Central African Admixed	Kuri	CHD-Kuri06	GRRFAC	0.00343836	PASSED	Chad	CHD	None	INCLUDED
+438	TD019145	Central African Admixed	Kuri	CHD-Kuri51	GRRFAC	0.000935126	PASSED	Chad	CHD	None	INCLUDED
+439	TD019146	Central African Admixed	Kuri	CHD-Kuri52	GRRFAC	0.00141704	PASSED	Chad	CHD	None	INCLUDED
+440	TD019147	Central African Admixed	Kuri	CHD-Kuri53	GRRFAC	0.0019337	PASSED	Chad	CHD	None	INCLUDED
+441	TD019148	Central African Admixed	Kuri	CHD-Kuri54	GRRFAC	0.00189744	PASSED	Chad	CHD	None	INCLUDED
+442	TD019149	Central African Admixed	Kuri	CHD-Kuri55	GRRFAC	0.00193672	PASSED	Chad	CHD	None	INCLUDED
+443	TD019150	Central African Admixed	Kuri	CHD-Kuri56	GRRFAC	0.0017494	PASSED	Chad	CHD	None	INCLUDED
+444	TD019151	Central African Admixed	Kuri	CHD-Kuri57	GRRFAC	0.00338398	PASSED	Chad	CHD	None	INCLUDED
+445	TD019152	Central African Admixed	Kuri	CHD-Kuri58	GRRFAC	0.00193823	PASSED	Chad	CHD	None	INCLUDED
+446	TD019153	Central African Admixed	Kuri	CHD-Kuri59	GRRFAC	0.00148049	PASSED	Chad	CHD	None	INCLUDED
+447	TD019154	Central African Admixed	Kuri	CHD-Kuri60	GRRFAC	0.00242468	PASSED	Chad	CHD	None	INCLUDED
+448	TD019155	Central African Admixed	Kuri	CHD-Kuri61	GRRFAC	0.0156464	PASSED	Chad	CHD	None	INCLUDED
+449	TD019156	Central African Admixed	Kuri	CHD-Kuri07	GRRFAC	0.00550954	PASSED	Chad	CHD	None	INCLUDED
+450	TD019157	Central African Admixed	Kuri	CHD-Kuri62	GRRFAC	0.00124633	PASSED	Chad	CHD	None	INCLUDED
+451	TD019158	Central African Admixed	Kuri	CHD-Kuri63	GRRFAC	0.00244432	PASSED	Chad	CHD	None	INCLUDED
+452	TD019159	Central African Admixed	Kuri	CHD-Kuri64	GRRFAC	0.00183702	PASSED	Chad	CHD	None	INCLUDED
+453	TD019160	Central African Admixed	Kuri	CHD-Kuri65	GRRFAC	0.00189442	PASSED	Chad	CHD	None	INCLUDED
+454	TD019161	Central African Admixed	Kuri	CHD-Kuri66	GRRFAC	0.00193823	PASSED	Chad	CHD	None	INCLUDED
+455	TD019162	Central African Admixed	Kuri	CHD-Kuri67	GRRFAC	0.00146236	PASSED	Chad	CHD	None	INCLUDED
+456	TD019163	Central African Admixed	Kuri	CHD-Kuri68	GRRFAC	0.00193823	PASSED	Chad	CHD	None	INCLUDED
+457	TD019164	Central African Admixed	Kuri	CHD-Kuri69	GRRFAC	0.00110735	PASSED	Chad	CHD	None	INCLUDED
+458	TD019165	Central African Admixed	Kuri	CHD-Kuri70	GRRFAC	0.00131884	PASSED	Chad	CHD	None	INCLUDED
+459	TD019166	Central African Admixed	Kuri	CHD-Kuri71	GRRFAC	0.00306975	PASSED	Chad	CHD	None	INCLUDED
+460	TD019167	Central African Admixed	Kuri	CHD-Kuri08	GRRFAC	0.00521193	PASSED	Chad	CHD	high relatedness (PHI=0.498741)	EXCLUDED
+461	TD019168	Central African Admixed	Kuri	CHD-Kuri72	GRRFAC	0.00148502	PASSED	Chad	CHD	None	INCLUDED
+462	TD019169	Central African Admixed	Kuri	CHD-Kuri73	GRRFAC	0.00112699	PASSED	Chad	CHD	None	INCLUDED
+463	TD019170	Central African Admixed	Kuri	CHD-Kuri09	GRRFAC	0.00123878	PASSED	Chad	CHD	None	INCLUDED
+464	TD019171	Central African Admixed	Kuri	CHD-Kuri10	GRRFAC	0.00151524	PASSED	Chad	CHD	None	INCLUDED
+465	TD019172	Central African Admixed	Kuri	CHD-Kuri74	GRRFAC	0.0012554	PASSED	Chad	CHD	None	INCLUDED
+466	TD019206	Central African Admixed	Kuri	CHD-Kuri75	GRRFAC	0.00171163	PASSED	Chad	CHD	None	INCLUDED
+764	FBJX1004662	West African Admixed	Freisein Bunaji	NGA-FreiseinBunaji01	PUBLIC	0.00209988	PASSED	Nigeria	NGA	None	INCLUDED
+765	FBJX1004672	West African Admixed	Freisein Bunaji	NGA-FreiseinBunaji02	PUBLIC	0.00236274	PASSED	Nigeria	NGA	None	INCLUDED
+766	FBJX1004677	West African Admixed	Freisein Bunaji	NGA-FreiseinBunaji03	PUBLIC	0.00269056	PASSED	Nigeria	NGA	None	INCLUDED
+767	FBJX1004682	West African Admixed	Freisein Bunaji	NGA-FreiseinBunaji04	PUBLIC	0.00265582	PASSED	Nigeria	NGA	None	INCLUDED
+768	FBJX1005326	West African Admixed	Freisein Bunaji	NGA-FreiseinBunaji05	PUBLIC	0.00227059	PASSED	Nigeria	NGA	None	INCLUDED
+769	FBJX1005351	West African Admixed	Freisein Bunaji	NGA-FreiseinBunaji06	PUBLIC	0.00397164	PASSED	Nigeria	NGA	None	INCLUDED
+770	FBJX1009457	West African Admixed	Freisein Bunaji	NGA-FreiseinBunaji07	PUBLIC	0.00292019	PASSED	Nigeria	NGA	None	INCLUDED
+771	FBJX1009462	West African Admixed	Freisein Bunaji	NGA-FreiseinBunaji08	PUBLIC	0.00299573	PASSED	Nigeria	NGA	None	INCLUDED
+772	FBJX1009467	West African Admixed	Freisein Bunaji	NGA-FreiseinBunaji09	PUBLIC	0.00486296	PASSED	Nigeria	NGA	None	INCLUDED
+773	FBJX1009472	West African Admixed	Freisein Bunaji	NGA-FreiseinBunaji10	PUBLIC	0.00325104	PASSED	Nigeria	NGA	None	INCLUDED
+774	FBJX1009473	West African Admixed	Freisein Bunaji	NGA-FreiseinBunaji11	PUBLIC	0.00329636	PASSED	Nigeria	NGA	None	INCLUDED
+775	FBJX1009474	West African Admixed	Freisein Bunaji	NGA-FreiseinBunaji12	PUBLIC	0.00393387	PASSED	Nigeria	NGA	None	INCLUDED
+776	FBJX1009475	West African Admixed	Freisein Bunaji	NGA-FreiseinBunaji13	PUBLIC	0.00350785	PASSED	Nigeria	NGA	None	INCLUDED
+777	FBJX1009476	West African Admixed	Freisein Bunaji	NGA-FreiseinBunaji14	PUBLIC	0.0022298	PASSED	Nigeria	NGA	None	INCLUDED
+778	FBJX1009483	West African Admixed	Freisein Bunaji	NGA-FreiseinBunaji15	PUBLIC	0.00202132	PASSED	Nigeria	NGA	None	INCLUDED
+779	FBJX1009491	West African Admixed	Freisein Bunaji	NGA-FreiseinBunaji16	PUBLIC	0.00237181	PASSED	Nigeria	NGA	None	INCLUDED
+780	FBJX1009502	West African Admixed	Freisein Bunaji	NGA-FreiseinBunaji17	PUBLIC	0.00281444	PASSED	Nigeria	NGA	None	INCLUDED
+781	FBJX1009505	West African Admixed	Freisein Bunaji	NGA-FreiseinBunaji18	PUBLIC	0.00370274	PASSED	Nigeria	NGA	None	INCLUDED
+782	FBJX1009510	West African Admixed	Freisein Bunaji	NGA-FreiseinBunaji19	PUBLIC	0.00276006	PASSED	Nigeria	NGA	None	INCLUDED
+783	FBJX1009511	West African Admixed	Freisein Bunaji	NGA-FreiseinBunaji20	PUBLIC	0.00345649	PASSED	Nigeria	NGA	None	INCLUDED
+784	FBJX1009512	West African Admixed	Freisein Bunaji	NGA-FreiseinBunaji21	PUBLIC	0.00236123	PASSED	Nigeria	NGA	None	INCLUDED
+785	FBJX1009513	West African Admixed	Freisein Bunaji	NGA-FreiseinBunaji22	PUBLIC	0.00227512	PASSED	Nigeria	NGA	None	INCLUDED
+786	FBJX1009518	West African Admixed	Freisein Bunaji	NGA-FreiseinBunaji23	PUBLIC	0.00281897	PASSED	Nigeria	NGA	None	INCLUDED
+787	FBJX1009535	West African Admixed	Freisein Bunaji	NGA-FreiseinBunaji24	PUBLIC	0.00313471	PASSED	Nigeria	NGA	None	INCLUDED
+859	KTKNS4.01	West African Admixed	Keteku	NGA-Keteku01	PUBLIC	0.00241411	PASSED	Nigeria	NGA	None	INCLUDED
+860	KTKNS4.02	West African Admixed	Keteku	NGA-Keteku02	PUBLIC	0.00216937	PASSED	Nigeria	NGA	None	INCLUDED
+861	KTKNS4.03	West African Admixed	Keteku	NGA-Keteku03	PUBLIC	0.0026679	PASSED	Nigeria	NGA	None	INCLUDED
+862	KTKNS4.04	West African Admixed	Keteku	NGA-Keteku04	PUBLIC	0.00192464	PASSED	Nigeria	NGA	None	INCLUDED
+863	KTKNS4.05	West African Admixed	Keteku	NGA-Keteku05	PUBLIC	0.00229627	PASSED	Nigeria	NGA	None	INCLUDED
+864	KTKNS4.06	West African Admixed	Keteku	NGA-Keteku06	PUBLIC	0.00246698	PASSED	Nigeria	NGA	None	INCLUDED
+865	KTKNS4.07	West African Admixed	Keteku	NGA-Keteku07	PUBLIC	0.00229476	PASSED	Nigeria	NGA	None	INCLUDED
+866	KTKNS4.08	West African Admixed	Keteku	NGA-Keteku08	PUBLIC	0.00251532	PASSED	Nigeria	NGA	None	INCLUDED
+867	KTKNS4.09	West African Admixed	Keteku	NGA-Keteku09	PUBLIC	0.00153034	PASSED	Nigeria	NGA	high relatedness (PHI=0.5)	EXCLUDED
+868	KTKNS4.10	West African Admixed	Keteku	NGA-Keteku10	PUBLIC	0.00200622	PASSED	Nigeria	NGA	high relatedness (PHI=0.5)	EXCLUDED
+869	KTKNS4.11	West African Admixed	Keteku	NGA-Keteku11	PUBLIC	0.00203492	PASSED	Nigeria	NGA	high relatedness (PHI=0.5)	EXCLUDED
+870	KTKNS4.12	West African Admixed	Keteku	NGA-Keteku12	PUBLIC	0.00247151	PASSED	Nigeria	NGA	high relatedness (PHI=0.5)	EXCLUDED
+871	KTKX1005310	West African Admixed	Keteku	NGA-Keteku13	PUBLIC	0.00361663	PASSED	Nigeria	NGA	None	INCLUDED
+872	KURX1005344	Central African Admixed	Kuri	CHD-Kuri11	PUBLIC	0.00358641	PASSED	Nigeria	NGA	None	INCLUDED
+873	KURX1005345	Central African Admixed	Kuri	CHD-Kuri12	PUBLIC	0.00202434	PASSED	Nigeria	NGA	None	INCLUDED
+11	BF010301	West African Taurine	Baoule	BFK-Baoule17	GRRFAC	0.000859591	PASSED	Burkina Faso	BFK	None	INCLUDED
+12	BF010602	West African Taurine	Baoule	BFK-Baoule18	GRRFAC	0.0011859	PASSED	Burkina Faso	BFK	None	INCLUDED
+13	BF010901	West African Taurine	Baoule	BFK-Baoule19	GRRFAC	0.00092304	PASSED	Burkina Faso	BFK	high relatedness (PHI=0.499547)	EXCLUDED
+14	BF011001	West African Taurine	Baoule	BFK-Baoule20	GRRFAC	0.000936637	PASSED	Burkina Faso	BFK	None	INCLUDED
+15	BF011101	West African Taurine	Baoule	BFK-Baoule08	GRRFAC	0.000744777	PASSED	Burkina Faso	BFK	None	INCLUDED
+16	BF011302	West African Taurine	Baoule	BFK-Baoule21	GRRFAC	0.000988	PASSED	Burkina Faso	BFK	None	INCLUDED
+17	BF011602	West African Taurine	Baoule	BFK-Baoule22	GRRFAC	0.000768948	PASSED	Burkina Faso	BFK	None	INCLUDED
+18	BF011802	West African Taurine	Baoule	BFK-Baoule23	GRRFAC	0.00109224	PASSED	Burkina Faso	BFK	None	INCLUDED
+19	BF011902	West African Taurine	Baoule	BFK-Baoule24	GRRFAC	0.18146	PASSED	Burkina Faso	BFK	None	INCLUDED
+20	BF012201	West African Taurine	Baoule	BFK-Baoule09	GRRFAC	0.000835419	PASSED	Burkina Faso	BFK	None	INCLUDED
+21	BF012401	West African Taurine	Baoule	BFK-Baoule25	GRRFAC	0.15196	PASSED	Burkina Faso	BFK	None	INCLUDED
+22	BF012602	West African Taurine	Baoule	BFK-Baoule26	GRRFAC	0.00105447	PASSED	Burkina Faso	BFK	None	INCLUDED
+23	BF020302	West African Taurine	Baoule	BFK-Baoule10	GRRFAC	0.000891315	PASSED	Burkina Faso	BFK	None	INCLUDED
+24	BF020502	West African Taurine	Baoule	BFK-Baoule27	GRRFAC	0.00102879	PASSED	Burkina Faso	BFK	None	INCLUDED
+25	BF020802	West African Taurine	Baoule	BFK-Baoule28	GRRFAC	0.00101217	PASSED	Burkina Faso	BFK	None	INCLUDED
+26	BF020902	West African Taurine	Baoule	BFK-Baoule29	GRRFAC	0.000916997	PASSED	Burkina Faso	BFK	None	INCLUDED
+27	BF021302	West African Taurine	Baoule	BFK-Baoule13	GRRFAC	0.000805205	PASSED	Burkina Faso	BFK	None	INCLUDED
+28	BF021502	West African Taurine	Baoule	BFK-Baoule30	GRRFAC	0.000926062	PASSED	Burkina Faso	BFK	None	INCLUDED
+29	BF021802	West African Taurine	Baoule	BFK-Baoule31	GRRFAC	0.000690392	PASSED	Burkina Faso	BFK	None	INCLUDED
+30	BF022302	West African Taurine	Baoule	BFK-Baoule32	GRRFAC	0.000873187	PASSED	Burkina Faso	BFK	None	INCLUDED
+31	BF022401	West African Taurine	Baoule	BFK-Baoule15	GRRFAC	0.000856569	PASSED	Burkina Faso	BFK	None	INCLUDED
+80	GN010101	West African Taurine	Ndama	GUN-Ndama22	GRRFAC	0.00316493	PASSED	Guinea	GUN	None	INCLUDED
+81	GN010102	West African Taurine	Ndama	GUN-Ndama01	GRRFAC	0.00109073	PASSED	Guinea	GUN	None	INCLUDED
+82	GN010202	West African Taurine	Ndama	GUN-Ndama23	GRRFAC	0.000645071	PASSED	Guinea	GUN	None	INCLUDED
+83	GN010404	West African Taurine	Ndama	GUN-Ndama24	GRRFAC	0.0021452	PASSED	Guinea	GUN	None	INCLUDED
+84	GN010505	West African Taurine	Ndama	GUN-Ndama25	GRRFAC	0.00105749	PASSED	Guinea	GUN	None	INCLUDED
+85	GN010606	West African Taurine	Ndama	GUN-Ndama26	GRRFAC	0.00319514	PASSED	Guinea	GUN	None	INCLUDED
+86	GN010707	West African Taurine	Ndama	GUN-Ndama02	GRRFAC	0.000406379	PASSED	Guinea	GUN	None	INCLUDED
+87	GN010808	West African Taurine	Ndama	GUN-Ndama03	GRRFAC	0.000469829	PASSED	Guinea	GUN	None	INCLUDED
+88	GN010909	West African Taurine	Ndama	GUN-Ndama04	GRRFAC	0.000691902	PASSED	Guinea	GUN	None	INCLUDED
+89	GN011010	West African Taurine	Ndama	GUN-Ndama27	GRRFAC	0.000847505	PASSED	Guinea	GUN	None	INCLUDED
+90	GN011111	West African Taurine	Ndama	GUN-Ndama05	GRRFAC	0.000983468	PASSED	Guinea	GUN	None	INCLUDED
+91	GN011212	West African Taurine	Ndama	GUN-Ndama06	GRRFAC	0.00118741	PASSED	Guinea	GUN	None	INCLUDED
+92	GN011313	West African Taurine	Ndama	GUN-Ndama07	GRRFAC	0.00077348	PASSED	Guinea	GUN	None	INCLUDED
+93	GN011414	West African Taurine	Ndama	GUN-Ndama08	GRRFAC	0.00075082	PASSED	Guinea	GUN	None	INCLUDED
+94	GN011515	West African Taurine	Ndama	GUN-Ndama09	GRRFAC	0.000877719	PASSED	Guinea	GUN	None	INCLUDED
+95	GN011616	West African Taurine	Ndama	GUN-Ndama10	GRRFAC	0.000980447	PASSED	Guinea	GUN	None	INCLUDED
+96	GN011717	West African Taurine	Ndama	GUN-Ndama11	GRRFAC	0.00320571	PASSED	Guinea	GUN	None	INCLUDED
+97	GN011818	West African Taurine	Ndama	GUN-Ndama28	GRRFAC	0.000409401	PASSED	Guinea	GUN	None	INCLUDED
+98	GN020101	West African Taurine	Ndama	GUN-Ndama12	GRRFAC	0.000913976	PASSED	Guinea	GUN	None	INCLUDED
+99	GN020220	West African Taurine	Ndama	GUN-Ndama13	GRRFAC	0.000752331	PASSED	Guinea	GUN	None	INCLUDED
+100	GN020321	West African Taurine	Ndama	GUN-Ndama14	GRRFAC	0.000483425	PASSED	Guinea	GUN	None	INCLUDED
+101	GN020422	West African Taurine	Ndama	GUN-Ndama15	GRRFAC	0.000513639	PASSED	Guinea	GUN	None	INCLUDED
+102	GN020523	West African Taurine	Ndama	GUN-Ndama16	GRRFAC	0.000849016	PASSED	Guinea	GUN	None	INCLUDED
+103	GN020624	West African Taurine	Ndama	GUN-Ndama29	GRRFAC	0.000489468	PASSED	Guinea	GUN	None	INCLUDED
+104	GN020725	West African Taurine	Ndama	GUN-Ndama17	GRRFAC	0.000477382	PASSED	Guinea	GUN	None	INCLUDED
+105	GN020826	West African Taurine	Ndama	GUN-Ndama30	GRRFAC	0.00895092	PASSED	Guinea	GUN	None	INCLUDED
+106	GN020929	West African Taurine	Ndama	GUN-Ndama18	GRRFAC	0.000645071	PASSED	Guinea	GUN	None	INCLUDED
+107	GN021028	West African Taurine	Ndama	GUN-Ndama19	GRRFAC	0.000549896	PASSED	Guinea	GUN	None	INCLUDED
+108	GN021129	West African Taurine	Ndama	GUN-Ndama31	GRRFAC	0.000623921	PASSED	Guinea	GUN	None	INCLUDED
+109	GN021230	West African Taurine	Ndama	GUN-Ndama20	GRRFAC	0.000382208	PASSED	Guinea	GUN	None	INCLUDED
+255	ND1	West African Taurine	Ndama	NGA-Ndama01	GRRFAC	0.00121461	PASSED	Nigeria	NGA	None	INCLUDED
+256	ND10	West African Taurine	Ndama	NGA-Ndama25	GRRFAC	0.000679817	PASSED	Nigeria	NGA	None	INCLUDED
+257	ND11	West African Taurine	Ndama	NGA-Ndama02	GRRFAC	0.00116626	PASSED	Nigeria	NGA	None	INCLUDED
+258	ND12	West African Taurine	Ndama	NGA-Ndama26	GRRFAC	0.000842973	PASSED	Nigeria	NGA	None	INCLUDED
+259	ND13	West African Taurine	Ndama	NGA-Ndama27	GRRFAC	0.000782545	PASSED	Nigeria	NGA	None	INCLUDED
+260	ND14	West African Taurine	Ndama	NGA-Ndama28	GRRFAC	0.000717584	PASSED	Nigeria	NGA	None	INCLUDED
+261	ND15	West African Taurine	Ndama	NGA-Ndama03	GRRFAC	0.000673774	PASSED	Nigeria	NGA	None	INCLUDED
+262	ND16	West African Taurine	Ndama	NGA-Ndama29	GRRFAC	0.000626942	PASSED	Nigeria	NGA	None	INCLUDED
+263	ND17	West African Taurine	Ndama	NGA-Ndama04	GRRFAC	0.00108922	PASSED	Nigeria	NGA	None	INCLUDED
+264	ND18	West African Taurine	Ndama	NGA-Ndama30	GRRFAC	0.00094419	PASSED	Nigeria	NGA	None	INCLUDED
+265	ND19	West African Taurine	Ndama	NGA-Ndama05	GRRFAC	0.000817291	PASSED	Nigeria	NGA	None	INCLUDED
+266	ND2	West African Taurine	Ndama	NGA-Ndama18	GRRFAC	0.000954765	PASSED	Nigeria	NGA	None	INCLUDED
+267	ND20	West African Taurine	Ndama	NGA-Ndama31	GRRFAC	0.0013687	PASSED	Nigeria	NGA	None	INCLUDED
+268	ND21	West African Taurine	Ndama	NGA-Ndama06	GRRFAC	0.000716074	PASSED	Nigeria	NGA	None	INCLUDED
+269	ND22	West African Taurine	Ndama	NGA-Ndama32	GRRFAC	0.000675285	PASSED	Nigeria	NGA	None	INCLUDED
+270	ND23	West African Taurine	Ndama	NGA-Ndama07	GRRFAC	0.000998575	PASSED	Nigeria	NGA	None	INCLUDED
+271	ND230	West African Taurine	Ndama	NGA-Ndama42	GRRFAC	0.000762906	PASSED	Nigeria	NGA	None	INCLUDED
+272	ND231	West African Taurine	Ndama	NGA-Ndama43	GRRFAC	0.000873187	PASSED	Nigeria	NGA	None	INCLUDED
+273	ND234	West African Taurine	Ndama	NGA-Ndama44	GRRFAC	0.00113907	PASSED	Nigeria	NGA	None	INCLUDED
+274	ND24	West African Taurine	Ndama	NGA-Ndama33	GRRFAC	0.00088074	PASSED	Nigeria	NGA	None	INCLUDED
+275	ND25	West African Taurine	Ndama	NGA-Ndama08	GRRFAC	0.00137625	PASSED	Nigeria	NGA	None	INCLUDED
+276	ND26	West African Taurine	Ndama	NGA-Ndama09	GRRFAC	0.000711542	PASSED	Nigeria	NGA	None	INCLUDED
+277	ND27	West African Taurine	Ndama	NGA-Ndama10	GRRFAC	0.00155754	PASSED	Nigeria	NGA	None	INCLUDED
+278	ND28	West African Taurine	Ndama	NGA-Ndama11	GRRFAC	0.000747799	PASSED	Nigeria	NGA	None	INCLUDED
+279	ND29	West African Taurine	Ndama	NGA-Ndama12	GRRFAC	0.000744777	PASSED	Nigeria	NGA	None	INCLUDED
+280	ND3	West African Taurine	Ndama	NGA-Ndama19	GRRFAC	0.00116022	PASSED	Nigeria	NGA	None	INCLUDED
+281	ND30	West African Taurine	Ndama	NGA-Ndama34	GRRFAC	0.000927572	PASSED	Nigeria	NGA	None	INCLUDED
+282	ND31	West African Taurine	Ndama	NGA-Ndama35	GRRFAC	0.00111339	PASSED	Nigeria	NGA	None	INCLUDED
+283	ND32	West African Taurine	Ndama	NGA-Ndama36	GRRFAC	0.000764416	PASSED	Nigeria	NGA	None	INCLUDED
+284	ND33	West African Taurine	Ndama	NGA-Ndama37	GRRFAC	0.00085808	PASSED	Nigeria	NGA	None	INCLUDED
+285	ND34	West African Taurine	Ndama	NGA-Ndama13	GRRFAC	0.000913976	PASSED	Nigeria	NGA	None	INCLUDED
+286	ND35	West African Taurine	Ndama	NGA-Ndama38	GRRFAC	0.000539321	PASSED	Nigeria	NGA	None	INCLUDED
+287	ND36	West African Taurine	Ndama	NGA-Ndama39	GRRFAC	0.00101217	PASSED	Nigeria	NGA	None	INCLUDED
+288	ND37	West African Taurine	Ndama	NGA-Ndama40	GRRFAC	0.000744777	PASSED	Nigeria	NGA	None	INCLUDED
+289	ND38	West African Taurine	Ndama	NGA-Ndama41	GRRFAC	0.000670753	PASSED	Nigeria	NGA	None	INCLUDED
+290	ND39	West African Taurine	Ndama	NGA-Ndama14	GRRFAC	0.00116626	PASSED	Nigeria	NGA	None	INCLUDED
+291	ND4	West African Taurine	Ndama	NGA-Ndama20	GRRFAC	0.00117533	PASSED	Nigeria	NGA	None	INCLUDED
+292	ND40	West African Taurine	Ndama	NGA-Ndama15	GRRFAC	0.000694924	PASSED	Nigeria	NGA	None	INCLUDED
+293	ND5	West African Taurine	Ndama	NGA-Ndama21	GRRFAC	0.00120856	PASSED	Nigeria	NGA	None	INCLUDED
+294	ND6	West African Taurine	Ndama	NGA-Ndama22	GRRFAC	0.000743266	PASSED	Nigeria	NGA	None	INCLUDED
+295	ND7	West African Taurine	Ndama	NGA-Ndama23	GRRFAC	0.000853548	PASSED	Nigeria	NGA	None	INCLUDED
+296	ND8	West African Taurine	Ndama	NGA-Ndama24	GRRFAC	0.000655646	PASSED	Nigeria	NGA	None	INCLUDED
+298	SN010212	West African Taurine	Ndama	SEN-Ndama03	GRRFAC	0.00148653	PASSED	Senegal	SEN	None	INCLUDED
+300	SN010313	West African Taurine	Ndama	SEN-Ndama04	GRRFAC	0.000617878	PASSED	Senegal	SEN	None	INCLUDED
+302	SN010414	West African Taurine	Ndama	SEN-Ndama13	GRRFAC	0.0011436	PASSED	Senegal	SEN	None	INCLUDED
+304	SN010515	West African Taurine	Ndama	SEN-Ndama05	GRRFAC	0.00070701	PASSED	Senegal	SEN	None	INCLUDED
+305	SN010616	West African Taurine	Ndama	SEN-Ndama06	GRRFAC	0.000504575	PASSED	Senegal	SEN	None	INCLUDED
+307	SN010717	West African Taurine	Ndama	SEN-Ndama14	GRRFAC	0.000731181	PASSED	Senegal	SEN	None	INCLUDED
+309	SN010818	West African Taurine	Ndama	SEN-Ndama15	GRRFAC	0.000824844	PASSED	Senegal	SEN	None	INCLUDED
+310	SN010920	West African Taurine	Ndama	SEN-Ndama16	GRRFAC	0.000755352	PASSED	Senegal	SEN	None	INCLUDED
+311	SN011122	West African Taurine	Ndama	SEN-Ndama17	GRRFAC	0.00159681	PASSED	Senegal	SEN	None	INCLUDED
+313	SN011223	West African Taurine	Ndama	SEN-Ndama07	GRRFAC	0.000827866	PASSED	Senegal	SEN	None	INCLUDED
+314	SN011324	West African Taurine	Ndama	SEN-Ndama18	GRRFAC	0.00108771	PASSED	Senegal	SEN	None	INCLUDED
+316	SN011526	West African Taurine	Ndama	SEN-Ndama19	GRRFAC	0.00181889	PASSED	Senegal	SEN	None	INCLUDED
+318	SN011627	West African Taurine	Ndama	SEN-Ndama08	GRRFAC	0.000802184	PASSED	Senegal	SEN	None	INCLUDED
+319	SN011829	West African Taurine	Ndama	SEN-Ndama20	GRRFAC	0.00688277	PASSED	Senegal	SEN	None	INCLUDED
+322	SN012031	West African Taurine	Ndama	SEN-Ndama21	GRRFAC	0.00102879	PASSED	Senegal	SEN	None	INCLUDED
+323	SN012132	West African Taurine	Ndama	SEN-Ndama22	GRRFAC	0.00150617	PASSED	Senegal	SEN	None	INCLUDED
+325	SN012435	West African Taurine	Ndama	SEN-Ndama23	GRRFAC	0.00161494	PASSED	Senegal	SEN	None	INCLUDED
+327	SN012536	West African Taurine	Ndama	SEN-Ndama10	GRRFAC	0.000710031	PASSED	Senegal	SEN	None	INCLUDED
+328	SN012738	West African Taurine	Ndama	SEN-Ndama11	GRRFAC	0.000948722	PASSED	Senegal	SEN	None	INCLUDED
+342	SN019104	West African Taurine	Ndama	SEN-Ndama24	GRRFAC	0.00167084	PASSED	Senegal	SEN	None	INCLUDED
+344	SN019107	West African Taurine	Ndama	SEN-Ndama25	GRRFAC	0.000693413	PASSED	Senegal	SEN	None	INCLUDED
+874	MUTNS1.01	West African Taurine	Muturu	NGA-FMuturu14	PUBLIC	0.00118137	PASSED	Nigeria	NGA	None	INCLUDED
+875	MUTNS1.02	West African Taurine	Muturu	NGA-FMuturu15	PUBLIC	0.00125691	PASSED	Nigeria	NGA	None	INCLUDED
+876	MUTNS1.03	West African Taurine	Muturu	NGA-FMuturu16	PUBLIC	0.00135057	PASSED	Nigeria	NGA	None	INCLUDED
+877	MUTNS1.04	West African Taurine	Muturu	NGA-FMuturu17	PUBLIC	0.00119648	PASSED	Nigeria	NGA	None	INCLUDED
+878	MUTNS1.05	West African Taurine	Muturu	NGA-FMuturu18	PUBLIC	0.00119195	PASSED	Nigeria	NGA	None	INCLUDED
+879	MUTNS1.06	West African Taurine	Muturu	NGA-FMuturu19	PUBLIC	0.00107713	PASSED	Nigeria	NGA	None	INCLUDED
+880	MUTNS1.07	West African Taurine	Muturu	NGA-FMuturu20	PUBLIC	0.00102426	PASSED	Nigeria	NGA	None	INCLUDED
+881	MUTNS1.08	West African Taurine	Muturu	NGA-FMuturu21	PUBLIC	0.00113907	PASSED	Nigeria	NGA	None	INCLUDED
+882	MUTNS1.09	West African Taurine	Muturu	NGA-FMuturu22	PUBLIC	0.00153034	PASSED	Nigeria	NGA	None	INCLUDED
+883	MUTNS1.10	West African Taurine	Muturu	NGA-FMuturu23	PUBLIC	0.00200622	PASSED	Nigeria	NGA	None	INCLUDED
+884	MUTNS1.11	West African Taurine	Muturu	NGA-FMuturu24	PUBLIC	0.00203492	PASSED	Nigeria	NGA	None	INCLUDED
+885	MUTNS1.12	West African Taurine	Muturu	NGA-FMuturu25	PUBLIC	0.00247151	PASSED	Nigeria	NGA	None	INCLUDED
+886	NDA000001	West African Taurine	Ndama	GUN-Ndama32	PUBLIC	0.00149106	PASSED	Guinea	GUN	None	INCLUDED
+887	NDA000005	West African Taurine	Ndama	GUN-Ndama33	PUBLIC	0.000889805	PASSED	Guinea	GUN	None	INCLUDED
+888	NDA000006	West African Taurine	Ndama	GUN-Ndama34	PUBLIC	0.00139136	PASSED	Guinea	GUN	None	INCLUDED
+889	NDA000010	West African Taurine	Ndama	GUN-Ndama35	PUBLIC	0.000894337	PASSED	Guinea	GUN	None	INCLUDED
+890	NDA000011	West African Taurine	Ndama	GUN-Ndama36	PUBLIC	0.00062241	PASSED	Guinea	GUN	None	INCLUDED
+891	NDA000012	West African Taurine	Ndama	GUN-Ndama37	PUBLIC	0.000549896	PASSED	Guinea	GUN	None	INCLUDED
+892	NDA000013	West African Taurine	Ndama	GUN-Ndama38	PUBLIC	0.000658667	PASSED	Guinea	GUN	None	INCLUDED
+893	NDA000014	West African Taurine	Ndama	GUN-Ndama39	PUBLIC	0.000700967	PASSED	Guinea	GUN	None	INCLUDED
+894	NDA000015	West African Taurine	Ndama	GUN-Ndama40	PUBLIC	0.000808227	PASSED	Guinea	GUN	None	INCLUDED
+895	NDA000017	West African Taurine	Ndama	GUN-Ndama41	PUBLIC	0.000865633	PASSED	Guinea	GUN	None	INCLUDED
+896	NDA000019	West African Taurine	Ndama	GUN-Ndama42	PUBLIC	0.000859591	PASSED	Guinea	GUN	None	INCLUDED
+897	NDA000021	West African Taurine	Ndama	GUN-Ndama43	PUBLIC	0.000744777	PASSED	Guinea	GUN	None	INCLUDED
+898	NDA000022	West African Taurine	Ndama	GUN-Ndama44	PUBLIC	0.000617878	PASSED	Guinea	GUN	None	INCLUDED
+899	NDA000024	West African Taurine	Ndama	GUN-Ndama45	PUBLIC	0.000572557	PASSED	Guinea	GUN	None	INCLUDED
+900	NDA000025	West African Taurine	Ndama	GUN-Ndama46	PUBLIC	0.000639028	PASSED	Guinea	GUN	None	INCLUDED
+901	NDA000027	West African Taurine	Ndama	GUN-Ndama47	PUBLIC	0.000702477	PASSED	Guinea	GUN	None	INCLUDED
+902	NDA000029	West African Taurine	Ndama	GUN-Ndama48	PUBLIC	0.000714563	PASSED	Guinea	GUN	None	INCLUDED
+903	NDA000030	West African Taurine	Ndama	GUN-Ndama49	PUBLIC	0.000675285	PASSED	Guinea	GUN	None	INCLUDED
+904	NDA000033	West African Taurine	Ndama	GUN-Ndama50	PUBLIC	0.000586153	PASSED	Guinea	GUN	None	INCLUDED
+905	NDA000035	West African Taurine	Ndama	GUN-Ndama51	PUBLIC	0.000613346	PASSED	Guinea	GUN	None	INCLUDED
+906	NDA000036	West African Taurine	Ndama	GUN-Ndama52	PUBLIC	0.00055745	PASSED	Guinea	GUN	None	INCLUDED
+907	NDA000041	West African Taurine	Ndama	GUN-Ndama53	PUBLIC	0.000577089	PASSED	Guinea	GUN	None	INCLUDED
+908	NDA000043	West African Taurine	Ndama	GUN-Ndama54	PUBLIC	0.000507597	PASSED	Guinea	GUN	None	INCLUDED
+909	NDA000044	West African Taurine	Ndama	GUN-Ndama55	PUBLIC	0.000566514	PASSED	Guinea	GUN	None	INCLUDED
+910	NDNX1000719	West African Taurine	Ndama	NGA-Ndama45	PUBLIC	0.00110886	PASSED	Nigeria	NGA	None	INCLUDED
+911	NDNX1000721	West African Taurine	Ndama	NGA-Ndama46	PUBLIC	0.00339002	PASSED	Nigeria	NGA	None	INCLUDED
+912	NDNX1000723	West African Taurine	Ndama	NGA-Ndama47	PUBLIC	0.0022721	PASSED	Nigeria	NGA	None	INCLUDED
+913	NDNX1000724	West African Taurine	Ndama	NGA-Ndama48	PUBLIC	0.00446111	PASSED	Nigeria	NGA	None	INCLUDED
+914	NDNX1000726	West African Taurine	Ndama	NGA-Ndama49	PUBLIC	0.00265884	PASSED	Nigeria	NGA	None	INCLUDED
+915	NDNX1000727	West African Taurine	Ndama	NGA-Ndama50	PUBLIC	0.00282804	PASSED	Nigeria	NGA	None	INCLUDED
+916	NDNX1000729	West African Taurine	Ndama	NGA-Ndama51	PUBLIC	0.00138229	PASSED	Nigeria	NGA	None	INCLUDED
+917	NDNX1000733	West African Taurine	Ndama	NGA-Ndama52	PUBLIC	0.00873942	PASSED	Nigeria	NGA	None	INCLUDED
+918	NDNX1000735	West African Taurine	Ndama	NGA-Ndama53	PUBLIC	0.0093573	PASSED	Nigeria	NGA	None	INCLUDED
+919	NDNX1000736	West African Taurine	Ndama	NGA-Ndama54	PUBLIC	0.00109375	PASSED	Nigeria	NGA	None	INCLUDED
+920	NDNX1000738	West African Taurine	Ndama	NGA-Ndama55	PUBLIC	0.00724987	PASSED	Nigeria	NGA	None	INCLUDED
+921	NDNX1000740	West African Taurine	Ndama	NGA-Ndama56	PUBLIC	0.00188234	PASSED	Nigeria	NGA	None	INCLUDED
+922	NDNX1000741	West African Taurine	Ndama	NGA-Ndama57	PUBLIC	0.00156962	PASSED	Nigeria	NGA	None	INCLUDED
+923	NDNX1000742	West African Taurine	Ndama	NGA-Ndama58	PUBLIC	0.00341117	PASSED	Nigeria	NGA	None	INCLUDED
+924	NDNX1000743	West African Taurine	Ndama	NGA-Ndama59	PUBLIC	0.00619087	PASSED	Nigeria	NGA	None	INCLUDED
+925	NDNX1000744	West African Taurine	Ndama	NGA-Ndama60	PUBLIC	0.00287487	PASSED	Nigeria	NGA	None	INCLUDED
+926	NDNX1000745	West African Taurine	Ndama	NGA-Ndama61	PUBLIC	0.00473757	PASSED	Nigeria	NGA	None	INCLUDED
+927	NDNX1004656	West African Taurine	Ndama	NGA-Ndama62	PUBLIC	0.00407286	PASSED	Nigeria	NGA	None	INCLUDED
+928	NDNX1004657	West African Taurine	Ndama	NGA-Ndama63	PUBLIC	0.0014956	PASSED	Nigeria	NGA	None	INCLUDED
+929	NDNX1004680	West African Taurine	Ndama	NGA-Ndama64	PUBLIC	0.00368159	PASSED	Nigeria	NGA	None	INCLUDED
+930	NDNX1005315	West African Taurine	Ndama	NGA-Ndama65	PUBLIC	0.00306069	PASSED	Nigeria	NGA	None	INCLUDED
+931	NDNX1005334	West African Taurine	Ndama	NGA-Ndama66	PUBLIC	0.00332355	PASSED	Nigeria	NGA	None	INCLUDED
+932	NDNX1007281	West African Taurine	Ndama	NGA-Ndama67	PUBLIC	0.00168595	PASSED	Nigeria	NGA	None	INCLUDED
+297	SN010112	West African Zebu	Zebu Gobra	SEN-ZebuGobra13	GRRFAC	0.00134755	PASSED	Senegal	SEN	high relatedness (PHI=0.49921)	EXCLUDED
+299	SN010213	West African Zebu	Zebu Gobra	SEN-ZebuGobra14	GRRFAC	0.00150466	PASSED	Senegal	SEN	None	INCLUDED
+301	SN010316	West African Zebu	Zebu Gobra	SEN-ZebuGobra15	GRRFAC	0.00156207	PASSED	Senegal	SEN	None	INCLUDED
+303	SN010417	West African Zebu	Zebu Maure	SEN-ZebuMaure08	GRRFAC	0.00106051	PASSED	Senegal	SEN	None	INCLUDED
+306	SN010620	West African Zebu	Zebu Gobra	SEN-ZebuGobra08	GRRFAC	0.00178414	PASSED	Senegal	SEN	None	INCLUDED
+308	SN010721	West African Zebu	Zebu Gobra	SEN-ZebuGobra16	GRRFAC	0.00117986	PASSED	Senegal	SEN	None	INCLUDED
+312	SN011125	West African Zebu	Zebu Gobra	SEN-ZebuGobra17	GRRFAC	0.00112094	PASSED	Senegal	SEN	None	INCLUDED
+317	SN011531	West African Zebu	Zebu Maure	SEN-ZebuMaure09	GRRFAC	0.00127503	PASSED	Senegal	SEN	None	INCLUDED
+320	SN011836	West African Zebu	Zebu Gobra	SEN-ZebuGobra18	GRRFAC	0.0020047	PASSED	Senegal	SEN	None	INCLUDED
+321	SN011938	West African Zebu	Zebu Gobra	SEN-ZebuGobra19	GRRFAC	0.00187327	PASSED	Senegal	SEN	None	INCLUDED
+324	SN012243	West African Zebu	Zebu Maure	SEN-ZebuMaure10	GRRFAC	0.001976	PASSED	Senegal	SEN	None	INCLUDED
+326	SN012445	West African Zebu	Zebu Maure	SEN-ZebuMaure11	GRRFAC	0.00180227	PASSED	Senegal	SEN	None	INCLUDED
+329	SN012951	West African Zebu	Zebu Maure	SEN-ZebuMaure04	GRRFAC	0.00141553	PASSED	Senegal	SEN	None	INCLUDED
+330	SN013052	West African Zebu	Zebu Maure	SEN-ZebuMaure12	GRRFAC	0.00178716	PASSED	Senegal	SEN	None	INCLUDED
+331	SN013355	West African Zebu	Zebu Maure	SEN-ZebuMaure05	GRRFAC	0.00196543	PASSED	Senegal	SEN	None	INCLUDED
+332	SN013658	West African Zebu	Zebu Maure	SEN-ZebuMaure13	GRRFAC	0.00182644	PASSED	Senegal	SEN	None	INCLUDED
+333	SN013860	West African Zebu	Zebu Maure	SEN-ZebuMaure14	GRRFAC	0.00188234	PASSED	Senegal	SEN	None	INCLUDED
+334	SN013961	West African Zebu	Zebu Maure	SEN-ZebuMaure15	GRRFAC	0.00150617	PASSED	Senegal	SEN	None	INCLUDED
+335	SN014163	West African Zebu	Zebu Maure	SEN-ZebuMaure06	GRRFAC	0.00668184	PASSED	Senegal	SEN	None	INCLUDED
+336	SN014466	West African Zebu	Zebu Maure	SEN-ZebuMaure16	GRRFAC	0.00197147	PASSED	Senegal	SEN	None	INCLUDED
+337	SN014668	West African Zebu	Zebu Maure	SEN-ZebuMaure17	GRRFAC	0.00214973	PASSED	Senegal	SEN	high relatedness (PHI=0.499475)	EXCLUDED
+338	SN014870	West African Zebu	Zebu Maure	SEN-ZebuMaure18	GRRFAC	0.00163156	PASSED	Senegal	SEN	None	INCLUDED
+339	SN015173	West African Zebu	Zebu Maure	SEN-ZebuMaure19	GRRFAC	0.00203492	PASSED	Senegal	SEN	None	INCLUDED
+340	SN015275	West African Zebu	Zebu Maure	SEN-ZebuMaure07	GRRFAC	0.00174486	PASSED	Senegal	SEN	high relatedness (PHI=0.499536)	EXCLUDED
+341	SN015376	West African Zebu	Zebu Maure	SEN-ZebuMaure20	GRRFAC	0.00168595	PASSED	Senegal	SEN	None	INCLUDED
+343	SN019105	West African Zebu	Zebu Gobra	SEN-ZebuGobra11	GRRFAC	0.0173006	PASSED	Senegal	SEN	None	INCLUDED
+467	TD020124	Central African Zebu	Toupouri	CHD-Toupouri16	GRRFAC	0.00159228	PASSED	Chad	CHD	None	INCLUDED
+468	TD-02-02-36	Central African Zebu	Toupouri	CHD-Toupouri17	GRRFAC	0.00150013	PASSED	Chad	CHD	None	INCLUDED
+469	TD029101	Central African Zebu	Toupouri	CHD-Toupouri18	GRRFAC	0.00180227	PASSED	Chad	CHD	None	INCLUDED
+470	TD029102	Central African Zebu	Toupouri	CHD-Toupouri02	GRRFAC	0.00104088	PASSED	Chad	CHD	None	INCLUDED
+471	TD029103	Central African Zebu	Toupouri	CHD-Toupouri19	GRRFAC	0.00177961	PASSED	Chad	CHD	None	INCLUDED
+472	TD029104	Central African Zebu	Toupouri	CHD-Toupouri20	GRRFAC	0.00156509	PASSED	Chad	CHD	None	INCLUDED
+473	TD029105	Central African Zebu	Toupouri	CHD-Toupouri21	GRRFAC	0.00197902	PASSED	Chad	CHD	None	INCLUDED
+474	TD029106	Central African Zebu	Toupouri	CHD-Toupouri22	GRRFAC	0.00172522	PASSED	Chad	CHD	None	INCLUDED
+475	TD029107	Central African Zebu	Toupouri	CHD-Toupouri23	GRRFAC	0.00187176	PASSED	Chad	CHD	None	INCLUDED
+476	TD029108	Central African Zebu	Toupouri	CHD-Toupouri24	GRRFAC	0.00157415	PASSED	Chad	CHD	None	INCLUDED
+477	TD029109	Central African Zebu	Toupouri	CHD-Toupouri25	GRRFAC	0.00146236	PASSED	Chad	CHD	None	INCLUDED
+478	TD029110	Central African Zebu	Toupouri	CHD-Toupouri26	GRRFAC	0.00128108	PASSED	Chad	CHD	None	INCLUDED
+479	TD029111	Central African Zebu	Toupouri	CHD-Toupouri03	GRRFAC	0.00148955	PASSED	Chad	CHD	None	INCLUDED
+480	TD029112	Central African Zebu	Toupouri	CHD-Toupouri27	GRRFAC	0.00132187	PASSED	Chad	CHD	None	INCLUDED
+481	TD029113	Central African Zebu	Toupouri	CHD-Toupouri28	GRRFAC	0.00163156	PASSED	Chad	CHD	None	INCLUDED
+482	TD029114	Central African Zebu	Toupouri	CHD-Toupouri29	GRRFAC	0.00153488	PASSED	Chad	CHD	None	INCLUDED
+483	TD029115	Central African Zebu	Toupouri	CHD-Toupouri04	GRRFAC	0.00153941	PASSED	Chad	CHD	None	INCLUDED
+484	TD029116	Central African Zebu	Toupouri	CHD-Toupouri30	GRRFAC	0.00133546	PASSED	Chad	CHD	None	INCLUDED
+485	TD029117	Central African Zebu	Toupouri	CHD-Toupouri31	GRRFAC	0.00169652	PASSED	Chad	CHD	None	INCLUDED
+486	TD029118	Central African Zebu	Toupouri	CHD-Toupouri32	GRRFAC	0.00156358	PASSED	Chad	CHD	None	INCLUDED
+487	TD029119	Central African Zebu	Toupouri	CHD-Toupouri33	GRRFAC	0.00255611	PASSED	Chad	CHD	None	INCLUDED
+488	TD029120	Central African Zebu	Toupouri	CHD-Toupouri05	GRRFAC	0.00164516	PASSED	Chad	CHD	None	INCLUDED
+489	TD029121	Central African Zebu	Toupouri	CHD-Toupouri34	GRRFAC	0.00207873	PASSED	Chad	CHD	None	INCLUDED
+490	TD029122	Central African Zebu	Toupouri	CHD-Toupouri35	GRRFAC	0.00163005	PASSED	Chad	CHD	None	INCLUDED
+491	TD029123	Central African Zebu	Toupouri	CHD-Toupouri06	GRRFAC	0.00178414	PASSED	Chad	CHD	None	INCLUDED
+492	TD029125	Central African Zebu	Toupouri	CHD-Toupouri36	GRRFAC	0.00171314	PASSED	Chad	CHD	None	INCLUDED
+493	TD029126	Central African Zebu	Toupouri	CHD-Toupouri07	GRRFAC	0.00168444	PASSED	Chad	CHD	None	INCLUDED
+494	TD029127	Central African Zebu	Toupouri	CHD-Toupouri37	GRRFAC	0.00145028	PASSED	Chad	CHD	None	INCLUDED
+495	TD029128	Central African Zebu	Toupouri	CHD-Toupouri38	GRRFAC	0.00157566	PASSED	Chad	CHD	None	INCLUDED
+496	TD029129	Central African Zebu	Toupouri	CHD-Toupouri08	GRRFAC	0.00220261	PASSED	Chad	CHD	None	INCLUDED
+497	TD029130	Central African Zebu	Toupouri	CHD-Toupouri39	GRRFAC	0.00374201	PASSED	Chad	CHD	None	INCLUDED
+498	TD029131	Central African Zebu	Toupouri	CHD-Toupouri40	GRRFAC	0.00171012	PASSED	Chad	CHD	None	INCLUDED
+499	TD029132	Central African Zebu	Toupouri	CHD-Toupouri41	GRRFAC	0.0027948	PASSED	Chad	CHD	None	INCLUDED
+500	TD029133	Central African Zebu	Toupouri	CHD-Toupouri09	GRRFAC	0.00122216	PASSED	Chad	CHD	None	INCLUDED
+501	TD029134	Central African Zebu	Toupouri	CHD-Toupouri42	GRRFAC	0.00137474	PASSED	Chad	CHD	None	INCLUDED
+502	TD029135	Central African Zebu	Toupouri	CHD-Toupouri43	GRRFAC	0.00115267	PASSED	Chad	CHD	None	INCLUDED
+503	TD029136	Central African Zebu	Toupouri	CHD-Toupouri10	GRRFAC	0.00114209	PASSED	Chad	CHD	None	INCLUDED
+504	TD029137	Central African Zebu	Toupouri	CHD-Toupouri44	GRRFAC	0.00151524	PASSED	Chad	CHD	None	INCLUDED
+505	TD029138	Central African Zebu	Toupouri	CHD-Toupouri45	GRRFAC	0.00102426	PASSED	Chad	CHD	None	INCLUDED
+506	TD029139	Central African Zebu	Toupouri	CHD-Toupouri46	GRRFAC	0.00102124	PASSED	Chad	CHD	None	INCLUDED
+507	TD029140	Central African Zebu	Toupouri	CHD-Toupouri47	GRRFAC	0.00104692	PASSED	Chad	CHD	None	INCLUDED
+508	TD029141	Central African Zebu	Toupouri	CHD-Toupouri48	GRRFAC	0.00142913	PASSED	Chad	CHD	None	INCLUDED
+509	TD029142	Central African Zebu	Toupouri	CHD-Toupouri11	GRRFAC	0.00195787	PASSED	Chad	CHD	None	INCLUDED
+510	TD029143	Central African Zebu	Toupouri	CHD-Toupouri49	GRRFAC	0.00184155	PASSED	Chad	CHD	None	INCLUDED
+511	TD029144	Central African Zebu	Toupouri	CHD-Toupouri50	GRRFAC	0.00106807	PASSED	Chad	CHD	None	INCLUDED
+512	TD029145	Central African Zebu	Toupouri	CHD-Toupouri51	GRRFAC	0.00141704	PASSED	Chad	CHD	None	INCLUDED
+513	TD029146	Central African Zebu	Toupouri	CHD-Toupouri52	GRRFAC	0.00148351	PASSED	Chad	CHD	None	INCLUDED
+514	TD029147	Central African Zebu	Toupouri	CHD-Toupouri12	GRRFAC	0.00166026	PASSED	Chad	CHD	None	INCLUDED
+515	TD029148	Central African Zebu	Toupouri	CHD-Toupouri53	GRRFAC	0.00274042	PASSED	Chad	CHD	None	INCLUDED
+516	TD029151	Central African Zebu	Toupouri	CHD-Toupouri54	GRRFAC	0.0125736	PASSED	Chad	CHD	None	INCLUDED
+517	TD029152	Central African Zebu	Toupouri	CHD-Toupouri13	GRRFAC	0.00112396	PASSED	Chad	CHD	None	INCLUDED
+518	TD029153	Central African Zebu	Toupouri	CHD-Toupouri55	GRRFAC	0.00102879	PASSED	Chad	CHD	None	INCLUDED
+519	TD029154	Central African Zebu	Toupouri	CHD-Toupouri56	GRRFAC	0.00188234	PASSED	Chad	CHD	None	INCLUDED
+520	TD029155	Central African Zebu	Toupouri	CHD-Toupouri57	GRRFAC	0.0011572	PASSED	Chad	CHD	None	INCLUDED
+521	TD029156	Central African Zebu	Toupouri	CHD-Toupouri58	GRRFAC	0.00117684	PASSED	Chad	CHD	None	INCLUDED
+522	TD029157	Central African Zebu	Toupouri	CHD-Toupouri59	GRRFAC	0.00295947	PASSED	Chad	CHD	None	INCLUDED
+523	TD029158	Central African Zebu	Toupouri	CHD-Toupouri60	GRRFAC	0.00248964	PASSED	Chad	CHD	None	INCLUDED
+524	TD029159	Central African Zebu	Toupouri	CHD-Toupouri61	GRRFAC	0.103597	PASSED	Chad	CHD	None	INCLUDED
+525	TD029160	Central African Zebu	Toupouri	CHD-Toupouri14	GRRFAC	0.00170407	PASSED	Chad	CHD	None	INCLUDED
+526	TD029161	Central African Zebu	Toupouri	CHD-Toupouri62	GRRFAC	0.00194428	PASSED	Chad	CHD	None	INCLUDED
+527	TD029162	Central African Zebu	Toupouri	CHD-Toupouri63	GRRFAC	0.0024836	PASSED	Chad	CHD	None	INCLUDED
+528	TD029163	Central African Zebu	Toupouri	CHD-Toupouri64	GRRFAC	0.00160135	PASSED	Chad	CHD	None	INCLUDED
+529	TD029164	Central African Zebu	Toupouri	CHD-Toupouri65	GRRFAC	0.00115267	PASSED	Chad	CHD	None	INCLUDED
+530	TD029165	Central African Zebu	Toupouri	CHD-Toupouri66	GRRFAC	0.0015379	PASSED	Chad	CHD	None	INCLUDED
+531	TD029166	Central African Zebu	Toupouri	CHD-Toupouri15	GRRFAC	0.00176299	PASSED	Chad	CHD	None	INCLUDED
+532	TD029167	Central African Zebu	Toupouri	CHD-Toupouri67	GRRFAC	0.00266035	PASSED	Chad	CHD	None	INCLUDED
+533	TD029168	Central African Zebu	Toupouri	CHD-Toupouri68	GRRFAC	0.00116022	PASSED	Chad	CHD	None	INCLUDED
+534	TD029169	Central African Zebu	Toupouri	CHD-Toupouri69	GRRFAC	0.00123727	PASSED	Chad	CHD	None	INCLUDED
+535	TD029170	Central African Zebu	Toupouri	CHD-Toupouri70	GRRFAC	0.00133093	PASSED	Chad	CHD	None	INCLUDED
+536	TD029171	Central African Zebu	Toupouri	CHD-Toupouri71	GRRFAC	0.00131582	PASSED	Chad	CHD	None	INCLUDED
+537	TD029172	Central African Zebu	Toupouri	CHD-Toupouri72	GRRFAC	0.00214671	PASSED	Chad	CHD	None	INCLUDED
+538	ADGX1005311	West African Zebu	Adamawa Gudali	NGA-ADWGudali01	PUBLIC	0.00389308	PASSED	Nigeria	NGA	high relatedness (PHI=0.5)	EXCLUDED
+539	ADGX1005313	West African Zebu	Adamawa Gudali	NGA-ADWGudali02	PUBLIC	0.00344289	PASSED	Nigeria	NGA	high relatedness (PHI=0.5)	EXCLUDED
+540	ADGX1007203	West African Zebu	Adamawa Gudali	NGA-ADWGudali03	PUBLIC	0.00284466	PASSED	Nigeria	NGA	None	INCLUDED
+541	ADGX1007204	West African Zebu	Adamawa Gudali	NGA-ADWGudali04	PUBLIC	0.00238842	PASSED	Nigeria	NGA	None	INCLUDED
+542	ADGX1007205	West African Zebu	Adamawa Gudali	NGA-ADWGudali05	PUBLIC	0.00276006	PASSED	Nigeria	NGA	None	INCLUDED
+543	ADGX1007206	West African Zebu	Adamawa Gudali	NGA-ADWGudali06	PUBLIC	0.00267848	PASSED	Nigeria	NGA	None	INCLUDED
+544	ADGX1007207	West African Zebu	Adamawa Gudali	NGA-ADWGudali07	PUBLIC	0.00309996	PASSED	Nigeria	NGA	None	INCLUDED
+545	ADGX1007209	West African Zebu	Adamawa Gudali	NGA-ADWGudali08	PUBLIC	0.00235519	PASSED	Nigeria	NGA	None	INCLUDED
+546	ADGX1007213	West African Zebu	Adamawa Gudali	NGA-ADWGudali09	PUBLIC	0.00321025	PASSED	Nigeria	NGA	None	INCLUDED
+547	ADGX1007214	West African Zebu	Adamawa Gudali	NGA-ADWGudali10	PUBLIC	0.00237785	PASSED	Nigeria	NGA	None	INCLUDED
+548	ADGX1007215	West African Zebu	Adamawa Gudali	NGA-ADWGudali11	PUBLIC	0.00325557	PASSED	Nigeria	NGA	None	INCLUDED
+549	ADGX1007216	West African Zebu	Adamawa Gudali	NGA-ADWGudali12	PUBLIC	0.00232497	PASSED	Nigeria	NGA	None	INCLUDED
+550	ADGX1007221	West African Zebu	Adamawa Gudali	NGA-ADWGudali13	PUBLIC	0.00253043	PASSED	Nigeria	NGA	None	INCLUDED
+551	ADGX1007224	West African Zebu	Adamawa Gudali	NGA-ADWGudali14	PUBLIC	0.0036559	PASSED	Nigeria	NGA	None	INCLUDED
+552	ADGX1009454	West African Zebu	Adamawa Gudali	NGA-ADWGudali15	PUBLIC	0.00235519	PASSED	Nigeria	NGA	None	INCLUDED
+553	ADGX1009459a	West African Zebu	Adamawa Gudali	NGA-ADWGudali16	PUBLIC	0.0028794	PASSED	Nigeria	NGA	None	INCLUDED
+554	ADGX1009460	West African Zebu	Adamawa Gudali	NGA-ADWGudali17	PUBLIC	0.00222225	PASSED	Nigeria	NGA	None	INCLUDED
+555	ADGX1009461	West African Zebu	Adamawa Gudali	NGA-ADWGudali18	PUBLIC	0.00192615	PASSED	Nigeria	NGA	None	INCLUDED
+556	ADGX1009481	West African Zebu	Adamawa Gudali	NGA-ADWGudali19	PUBLIC	0.0021029	PASSED	Nigeria	NGA	None	INCLUDED
+557	ADGX1009485	West African Zebu	Adamawa Gudali	NGA-ADWGudali20	PUBLIC	0.0029776	PASSED	Nigeria	NGA	None	INCLUDED
+558	ADGX1009489	West African Zebu	Adamawa Gudali	NGA-ADWGudali21	PUBLIC	0.00211196	PASSED	Nigeria	NGA	None	INCLUDED
+559	ADGX1009493	West African Zebu	Adamawa Gudali	NGA-ADWGudali22	PUBLIC	0.00222074	PASSED	Nigeria	NGA	None	INCLUDED
+560	ADGX1009496	West African Zebu	Adamawa Gudali	NGA-ADWGudali23	PUBLIC	0.00222376	PASSED	Nigeria	NGA	None	INCLUDED
+561	ADGX1009530	West African Zebu	Adamawa Gudali	NGA-ADWGudali24	PUBLIC	0.00203794	PASSED	Nigeria	NGA	None	INCLUDED
+562	ADGX1009532	West African Zebu	Adamawa Gudali	NGA-ADWGudali25	PUBLIC	0.00177508	PASSED	Nigeria	NGA	None	INCLUDED
+588	AZWX1004309	West African Zebu	Azawak	NGA-Azawak1	PUBLIC	0.00322082	PASSED	Nigeria	NGA	None	INCLUDED
+589	AZWX1005338	West African Zebu	Azawak	NGA-Azawak2	PUBLIC	0.00351692	PASSED	Nigeria	NGA	high relatedness (PHI=0.5)	EXCLUDED
+602	BNJX1000746	West African Zebu	Bunaji	NGA-Bunaji01	PUBLIC	0.00285674	PASSED	Nigeria	NGA	None	INCLUDED
+603	BNJX1000749	West African Zebu	Bunaji	NGA-Bunaji02	PUBLIC	0.00226757	PASSED	Nigeria	NGA	None	INCLUDED
+604	BNJX1000750	West African Zebu	Bunaji	NGA-Bunaji03	PUBLIC	0.00513639	PASSED	Nigeria	NGA	None	INCLUDED
+605	BNJX1000751	West African Zebu	Bunaji	NGA-Bunaji04	PUBLIC	0.00226455	PASSED	Nigeria	NGA	None	INCLUDED
+606	BNJX1000752	West African Zebu	Bunaji	NGA-Bunaji05	PUBLIC	0.00456686	PASSED	Nigeria	NGA	None	INCLUDED
+607	BNJX1000753	West African Zebu	Bunaji	NGA-Bunaji06	PUBLIC	0.00249266	PASSED	Nigeria	NGA	None	INCLUDED
+608	BNJX1000754	West African Zebu	Bunaji	NGA-Bunaji07	PUBLIC	0.00334923	PASSED	Nigeria	NGA	None	INCLUDED
+609	BNJX1000756	West African Zebu	Bunaji	NGA-Bunaji08	PUBLIC	0.00291415	PASSED	Nigeria	NGA	None	INCLUDED
+610	BNJX1000758	West African Zebu	Bunaji	NGA-Bunaji09	PUBLIC	0.00636913	PASSED	Nigeria	NGA	None	INCLUDED
+611	BNJX1004668	West African Zebu	Bunaji	NGA-Bunaji10	PUBLIC	0.00492036	PASSED	Nigeria	NGA	None	INCLUDED
+612	BNJX1004669	West African Zebu	Bunaji	NGA-Bunaji11	PUBLIC	0.0033734	PASSED	Nigeria	NGA	None	INCLUDED
+613	BNJX1004671	West African Zebu	Bunaji	NGA-Bunaji12	PUBLIC	0.00673623	PASSED	Nigeria	NGA	None	INCLUDED
+614	BNJX1004685	West African Zebu	Bunaji	NGA-Bunaji13	PUBLIC	0.00500345	PASSED	Nigeria	NGA	None	INCLUDED
+615	BNJX1004688	West African Zebu	Bunaji	NGA-Bunaji14	PUBLIC	0.00274344	PASSED	Nigeria	NGA	None	INCLUDED
+616	BNJX1005331	West African Zebu	Bunaji	NGA-Bunaji15	PUBLIC	0.00266488	PASSED	Nigeria	NGA	None	INCLUDED
+617	BNJX1007244	West African Zebu	Bunaji	NGA-Bunaji16	PUBLIC	0.0026105	PASSED	Nigeria	NGA	None	INCLUDED
+618	BNJX1007245	West African Zebu	Bunaji	NGA-Bunaji17	PUBLIC	0.00248813	PASSED	Nigeria	NGA	None	INCLUDED
+619	BNJX1007246	West African Zebu	Bunaji	NGA-Bunaji18	PUBLIC	0.00288998	PASSED	Nigeria	NGA	None	INCLUDED
+620	BNJX1007247	West African Zebu	Bunaji	NGA-Bunaji19	PUBLIC	0.00660027	PASSED	Nigeria	NGA	None	INCLUDED
+621	BNJX1007250	West African Zebu	Bunaji	NGA-Bunaji20	PUBLIC	0.0100673	PASSED	Nigeria	NGA	None	INCLUDED
+622	BNJX1007251	West African Zebu	Bunaji	NGA-Bunaji21	PUBLIC	0.00201981	PASSED	Nigeria	NGA	None	INCLUDED
+623	BNJX1007252	West African Zebu	Bunaji	NGA-Bunaji22	PUBLIC	0.00406984	PASSED	Nigeria	NGA	None	INCLUDED
+624	BNJX1007253	West African Zebu	Bunaji	NGA-Bunaji23	PUBLIC	0.00230987	PASSED	Nigeria	NGA	None	INCLUDED
+969	RDBX1004651	West African Zebu	Red Bororo	NGA-RedBororo01	PUBLIC	0.00253647	PASSED	Nigeria	NGA	None	INCLUDED
+970	RDBX1004686	West African Zebu	Red Bororo	NGA-RedBororo02	PUBLIC	0.014814	PASSED	Nigeria	NGA	None	INCLUDED
+971	RDBX1005323	West African Zebu	Red Bororo	NGA-RedBororo03	PUBLIC	0.00206664	PASSED	Nigeria	NGA	None	INCLUDED
+972	RDBX1007266	West African Zebu	Red Bororo	NGA-RedBororo04	PUBLIC	0.00619238	PASSED	Nigeria	NGA	None	INCLUDED
+973	RDBX1007267	West African Zebu	Red Bororo	NGA-RedBororo05	PUBLIC	0.00420278	PASSED	Nigeria	NGA	None	INCLUDED
+974	RDBX1007271	West African Zebu	Red Bororo	NGA-RedBororo06	PUBLIC	0.00399732	PASSED	Nigeria	NGA	None	INCLUDED
+975	RDBX1007272	West African Zebu	Red Bororo	NGA-RedBororo07	PUBLIC	0.00806565	PASSED	Nigeria	NGA	None	INCLUDED
+976	RDBX1007273	West African Zebu	Red Bororo	NGA-RedBororo08	PUBLIC	0.00267848	PASSED	Nigeria	NGA	None	INCLUDED
+977	RDBX1007276	West African Zebu	Red Bororo	NGA-RedBororo09	PUBLIC	0.00312867	PASSED	Nigeria	NGA	None	INCLUDED
+978	RDBX1007277	West African Zebu	Red Bororo	NGA-RedBororo10	PUBLIC	0.0203552	PASSED	Nigeria	NGA	None	INCLUDED
+979	RDBX1007278	West African Zebu	Red Bororo	NGA-RedBororo11	PUBLIC	0.00358792	PASSED	Nigeria	NGA	None	INCLUDED
+980	RDBX1007279	West African Zebu	Red Bororo	NGA-RedBororo12	PUBLIC	0.012702	PASSED	Nigeria	NGA	None	INCLUDED
+981	RDBX1009459.1	West African Zebu	Red Bororo	NGA-RedBororo13	PUBLIC	0.0310646	PASSED	Nigeria	NGA	None	INCLUDED
+982	RDBX1009466	West African Zebu	Red Bororo	NGA-RedBororo14	PUBLIC	0.00209535	PASSED	Nigeria	NGA	None	INCLUDED
+983	RDBX1009477	West African Zebu	Red Bororo	NGA-RedBororo15	PUBLIC	0.00375712	PASSED	Nigeria	NGA	None	INCLUDED
+984	RDBX1009479	West African Zebu	Red Bororo	NGA-RedBororo16	PUBLIC	0.00367403	PASSED	Nigeria	NGA	None	INCLUDED
+985	RDBX1009495	West African Zebu	Red Bororo	NGA-RedBororo17	PUBLIC	0.00339002	PASSED	Nigeria	NGA	None	INCLUDED
+986	RDBX1009497	West African Zebu	Red Bororo	NGA-RedBororo18	PUBLIC	0.00578751	PASSED	Nigeria	NGA	None	INCLUDED
+987	RDBX1009503	West African Zebu	Red Bororo	NGA-RedBororo19	PUBLIC	0.00185363	PASSED	Nigeria	NGA	None	INCLUDED
+988	RDBX1009514	West African Zebu	Red Bororo	NGA-RedBororo20	PUBLIC	0.00264675	PASSED	Nigeria	NGA	None	INCLUDED
+989	RDBX1009517	West African Zebu	Red Bororo	NGA-RedBororo21	PUBLIC	0.00926968	PASSED	Nigeria	NGA	None	INCLUDED
+990	RDBX1009536	West African Zebu	Red Bororo	NGA-RedBororo22	PUBLIC	0.0147626	PASSED	Nigeria	NGA	None	INCLUDED
+1034	SKGX1005312	West African Zebu	Sokoto Gudali	NGA-SKTGudali01	PUBLIC	0.00239598	PASSED	Nigeria	NGA	None	INCLUDED
+1035	SKGX1007225	West African Zebu	Sokoto Gudali	NGA-SKTGudali02	PUBLIC	0.0030622	PASSED	Nigeria	NGA	None	INCLUDED
+1036	SKGX1007226	West African Zebu	Sokoto Gudali	NGA-SKTGudali03	PUBLIC	0.00270114	PASSED	Nigeria	NGA	None	INCLUDED
+1037	SKGX1007227	West African Zebu	Sokoto Gudali	NGA-SKTGudali04	PUBLIC	0.00279782	PASSED	Nigeria	NGA	None	INCLUDED
+1038	SKGX1007228	West African Zebu	Sokoto Gudali	NGA-SKTGudali05	PUBLIC	0.00429493	PASSED	Nigeria	NGA	None	INCLUDED
+1039	SKGX1007229	West African Zebu	Sokoto Gudali	NGA-SKTGudali06	PUBLIC	0.00294738	PASSED	Nigeria	NGA	None	INCLUDED
+1040	SKGX1007230	West African Zebu	Sokoto Gudali	NGA-SKTGudali07	PUBLIC	0.00321629	PASSED	Nigeria	NGA	None	INCLUDED
+1041	SKGX1007231	West African Zebu	Sokoto Gudali	NGA-SKTGudali08	PUBLIC	0.00449888	PASSED	Nigeria	NGA	None	INCLUDED
+1042	SKGX1007234	West African Zebu	Sokoto Gudali	NGA-SKTGudali09	PUBLIC	0.00422091	PASSED	Nigeria	NGA	None	INCLUDED
+1043	SKGX1007235	West African Zebu	Sokoto Gudali	NGA-SKTGudali10	PUBLIC	0.00805507	PASSED	Nigeria	NGA	None	INCLUDED
+1044	SKGX1007236	West African Zebu	Sokoto Gudali	NGA-SKTGudali11	PUBLIC	0.00886028	PASSED	Nigeria	NGA	None	INCLUDED
+1045	SKGX1007284	West African Zebu	Sokoto Gudali	NGA-SKTGudali12	PUBLIC	0.00276308	PASSED	Nigeria	NGA	None	INCLUDED
+1046	SKGX1007285	West African Zebu	Sokoto Gudali	NGA-SKTGudali13	PUBLIC	0.00255158	PASSED	Nigeria	NGA	None	INCLUDED
+1047	SKGX1007286	West African Zebu	Sokoto Gudali	NGA-SKTGudali14	PUBLIC	0.0024836	PASSED	Nigeria	NGA	None	INCLUDED
+1048	SKGX1007287	West African Zebu	Sokoto Gudali	NGA-SKTGudali15	PUBLIC	0.00242619	PASSED	Nigeria	NGA	None	INCLUDED
+1049	SKGX1007289	West African Zebu	Sokoto Gudali	NGA-SKTGudali16	PUBLIC	0.0044037	PASSED	Nigeria	NGA	None	INCLUDED
+1050	SKGX1007290	West African Zebu	Sokoto Gudali	NGA-SKTGudali17	PUBLIC	0.00234914	PASSED	Nigeria	NGA	None	INCLUDED
+1051	SKGX1007292	West African Zebu	Sokoto Gudali	NGA-SKTGudali18	PUBLIC	0.00294889	PASSED	Nigeria	NGA	None	INCLUDED
+1052	SKGX1009464	West African Zebu	Sokoto Gudali	NGA-SKTGudali19	PUBLIC	0.00273135	PASSED	Nigeria	NGA	None	INCLUDED
+1053	SKGX1009507	West African Zebu	Sokoto Gudali	NGA-SKTGudali20	PUBLIC	0.00461067	PASSED	Nigeria	NGA	None	INCLUDED
+1054	SKGX1009531	West African Zebu	Sokoto Gudali	NGA-SKTGudali21	PUBLIC	0.00276006	PASSED	Nigeria	NGA	None	INCLUDED
+1068	WDRX1005324	West African Zebu	Wadara	NGA-Wadara01	PUBLIC	0.00263467	PASSED	Nigeria	NGA	high relatedness (PHI=0.5)	EXCLUDED
+1069	WDRX1005352	West African Zebu	Wadara	NGA-Wadara02	PUBLIC	0.00301688	PASSED	Nigeria	NGA	None	INCLUDED
+1070	WDRX1005360	West African Zebu	Wadara	NGA-Wadara03	PUBLIC	0.00322989	PASSED	Nigeria	NGA	None	INCLUDED
+1071	YKJNS3.01	West African Zebu	Yakanaji	NGA-Yakanaji01	PUBLIC	0.00351692	PASSED	Nigeria	NGA	None	INCLUDED
+1072	YKJNS3.02	West African Zebu	Yakanaji	NGA-Yakanaji02	PUBLIC	0.00344289	PASSED	Nigeria	NGA	None	INCLUDED
+1073	YKJNS3.03	West African Zebu	Yakanaji	NGA-Yakanaji03	PUBLIC	0.00389308	PASSED	Nigeria	NGA	None	INCLUDED
+1074	YKJNS3.04	West African Zebu	Yakanaji	NGA-Yakanaji04	PUBLIC	0.00263467	PASSED	Nigeria	NGA	None	INCLUDED
+1075	YKJNS3.05	West African Zebu	Yakanaji	NGA-Yakanaji05	PUBLIC	0.00336434	PASSED	Nigeria	NGA	None	INCLUDED
+1076	YKJNS3.06	West African Zebu	Yakanaji	NGA-Yakanaji06	PUBLIC	0.00448075	PASSED	Nigeria	NGA	None	INCLUDED
+1077	YKJNS3.07	West African Zebu	Yakanaji	NGA-Yakanaji07	PUBLIC	0.0140299	PASSED	Nigeria	NGA	None	INCLUDED
+1078	YKJNS3.08	West African Zebu	Yakanaji	NGA-Yakanaji08	PUBLIC	0.00422846	PASSED	Nigeria	NGA	None	INCLUDED
+1079	YKJNS3.09	West African Zebu	Yakanaji	NGA-Yakanaji09	PUBLIC	0.00342326	PASSED	Nigeria	NGA	None	INCLUDED
+1080	YKJNS3.11	West African Zebu	Yakanaji	NGA-Yakanaji10	PUBLIC	0.0037118	PASSED	Nigeria	NGA	None	INCLUDED
+1081	YKJNS3.12	West African Zebu	Yakanaji	NGA-Yakanaji11	PUBLIC	0.0034293	PASSED	Nigeria	NGA	None	INCLUDED
+1082	YKNNS3.10	West African Zebu	Yakanaji	NGA-Yakanaji12	PUBLIC	0.00374806	PASSED	Nigeria	NGA	None	INCLUDED

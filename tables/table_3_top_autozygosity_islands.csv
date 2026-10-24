@@ -1,0 +1,21 @@
+Lineage,Chrom,Start_Pos,End_Pos,Length_Mb,Peak_Frequency_Pct,Threshold_Pct,Candidate_Genes
+African Zebu,7,49530947.0,52630947.0,3.1,64.04,11.49,IL4 (Interleukin 4; Th2 immune polarization against parasites)
+African Taurine,6,47919422.0,49519422.0,1.6,53.53,24.12,None previously curated
+Total Cohort,7,49530947.0,52730947.0,3.2,53.1,12.28,IL4 (Interleukin 4; Th2 immune polarization against parasites)
+African Taurine,23,103505.0,1503505.0,1.4,47.06,24.12,None previously curated
+African Taurine,7,49330947.0,52730947.0,3.4,45.29,24.12,IL4 (Interleukin 4; Th2 immune polarization against parasites)
+Sanga / Zenga,7,49630947.0,52630947.0,3.0,44.64,11.01,IL4 (Interleukin 4; Th2 immune polarization against parasites)
+African Taurine,1,129755346.0,130955346.0,1.2,40.0,24.12,None previously curated
+African Taurine,12,37290415.0,38590415.0,1.3,37.65,24.12,None previously curated
+African Taurine,19,54106.0,3054106.0,3.0,37.65,24.12,None previously curated
+African Taurine,7,38030947.0,39330947.0,1.3,34.71,24.12,None previously curated
+African Taurine,14,50346715.0,52046715.0,1.7,34.12,24.12,None previously curated
+African Taurine,27,5948893.0,7448893.0,1.5,32.94,24.12,None previously curated
+African Taurine,6,119422.0,1619422.0,1.5,31.18,24.12,None previously curated
+African Taurine,21,28329987.0,29329987.0,1.0,30.59,24.12,None previously curated
+African Taurine,7,9730947.0,11130947.0,1.4,30.0,24.12,None previously curated
+African Taurine,1,80955346.0,82055346.0,1.1,29.41,24.12,None previously curated
+African Taurine,5,102532329.0,103132329.0,0.6,27.06,24.12,None previously curated
+African Taurine,6,79119422.0,79619422.0,0.5,26.47,24.12,None previously curated
+African Taurine,11,56796844.0,58096844.0,1.3,25.88,24.12,None previously curated
+African Taurine,11,61296844.0,62196844.0,0.9,25.29,24.12,None previously curated

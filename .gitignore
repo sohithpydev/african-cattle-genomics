@@ -1,0 +1,20 @@
+# Large raw genomic data files (>100MB, archived on Zenodo: DOI 10.5281/zenodo.8317391)
+data/raw/*.vcf.gz
+data/raw/*.vcf.gz.tbi
+data/interim/*.npz
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# System / OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

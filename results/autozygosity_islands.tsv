@@ -1,0 +1,73 @@
+Lineage	Chrom	Start_Pos	End_Pos	Length_Mb	Peak_Frequency_Pct	Threshold_Pct	Candidate_Genes
+African Zebu	7	49530947.0	52630947.0	3.1	64.04	11.49	IL4 (Interleukin 4; Th2 immune polarization against parasites)
+African Taurine	6	47919422.0	49519422.0	1.6	53.53	24.12	None previously curated
+Total Cohort	7	49530947.0	52730947.0	3.2	53.1	12.28	IL4 (Interleukin 4; Th2 immune polarization against parasites)
+African Taurine	23	103505.0	1503505.0	1.4	47.06	24.12	None previously curated
+African Taurine	7	49330947.0	52730947.0	3.4	45.29	24.12	IL4 (Interleukin 4; Th2 immune polarization against parasites)
+Sanga / Zenga	7	49630947.0	52630947.0	3.0	44.64	11.01	IL4 (Interleukin 4; Th2 immune polarization against parasites)
+African Taurine	1	129755346.0	130955346.0	1.2	40.0	24.12	None previously curated
+African Taurine	12	37290415.0	38590415.0	1.3	37.65	24.12	None previously curated
+African Taurine	19	54106.0	3054106.0	3.0	37.65	24.12	None previously curated
+African Taurine	7	38030947.0	39330947.0	1.3	34.71	24.12	None previously curated
+African Taurine	14	50346715.0	52046715.0	1.7	34.12	24.12	None previously curated
+African Taurine	27	5948893.0	7448893.0	1.5	32.94	24.12	None previously curated
+African Taurine	6	119422.0	1619422.0	1.5	31.18	24.12	None previously curated
+African Taurine	21	28329987.0	29329987.0	1.0	30.59	24.12	None previously curated
+African Taurine	7	9730947.0	11130947.0	1.4	30.0	24.12	None previously curated
+African Taurine	1	80955346.0	82055346.0	1.1	29.41	24.12	None previously curated
+African Taurine	5	102532329.0	103132329.0	0.6	27.06	24.12	None previously curated
+African Taurine	6	79119422.0	79619422.0	0.5	26.47	24.12	None previously curated
+African Taurine	11	56796844.0	58096844.0	1.3	25.88	24.12	None previously curated
+African Taurine	11	61296844.0	62196844.0	0.9	25.29	24.12	None previously curated
+African Zebu	21	429987.0	2129987.0	1.7	22.55	11.49	None previously curated
+African Zebu	5	57332329.0	59932329.0	2.6	22.34	11.49	None previously curated
+Total Cohort	23	103505.0	1403505.0	1.3	21.93	12.28	None previously curated
+Sanga / Zenga	5	46832329.0	49332329.0	2.5	21.45	11.01	None previously curated
+Sanga / Zenga	23	103505.0	1503505.0	1.4	21.16	11.01	None previously curated
+Total Cohort	12	35590415.0	38890415.0	3.3	20.81	12.28	None previously curated
+African Zebu	12	36990415.0	38990415.0	2.0	20.64	11.49	None previously curated
+African Zebu	12	27990415.0	29690415.0	1.7	20.43	11.49	None previously curated
+Total Cohort	5	57332329.0	59832329.0	2.5	20.1	12.28	None previously curated
+Total Cohort	21	529987.0	2029987.0	1.5	19.7	12.28	None previously curated
+African Zebu	12	25790415.0	27090415.0	1.3	18.94	11.49	None previously curated
+Total Cohort	19	54106.0	3254106.0	3.2	18.38	12.28	None previously curated
+Total Cohort	12	25790415.0	27090415.0	1.3	18.27	12.28	None previously curated
+Sanga / Zenga	19	754106.0	3254106.0	2.5	18.26	11.01	None previously curated
+African Zebu	15	48170773.0	49470773.0	1.3	17.45	11.49	None previously curated
+Sanga / Zenga	5	56032329.0	59832329.0	3.8	17.39	11.01	None previously curated
+Total Cohort	27	5948893.0	7448893.0	1.5	17.26	12.28	None previously curated
+African Zebu	27	5848893.0	7348893.0	1.5	15.96	11.49	None previously curated
+Sanga / Zenga	7	43030947.0	44430947.0	1.4	15.94	11.01	None previously curated
+Sanga / Zenga	12	25690415.0	27090415.0	1.4	15.65	11.01	None previously curated
+Total Cohort	5	47132329.0	48432329.0	1.3	15.43	12.28	None previously curated
+Sanga / Zenga	21	429987.0	2029987.0	1.6	15.36	11.01	None previously curated
+African Zebu	12	35490415.0	36890415.0	1.4	15.32	11.49	None previously curated
+Total Cohort	21	28329987.0	29229987.0	0.9	14.42	12.28	None previously curated
+Total Cohort	15	48170773.0	49370773.0	1.2	14.31	12.28	None previously curated
+Total Cohort	12	28090415.0	29090415.0	1.0	14.01	12.28	None previously curated
+African Zebu	5	47232329.0	48932329.0	1.7	13.62	11.49	None previously curated
+African Zebu	19	1854106.0	3154106.0	1.3	13.4	11.49	None previously curated
+African Zebu	23	103505.0	1203505.0	1.1	13.4	11.49	None previously curated
+Sanga / Zenga	12	37290415.0	38690415.0	1.4	13.33	11.01	None previously curated
+Sanga / Zenga	12	35490415.0	37190415.0	1.7	13.33	11.01	None previously curated
+Total Cohort	5	76032329.0	77032329.0	1.0	13.3	12.28	None previously curated
+Total Cohort	7	9230947.0	9930947.0	0.7	13.3	12.28	None previously curated
+African Zebu	18	14058847.0	14758847.0	0.7	12.77	11.49	MC1R (Melanocortin 1 receptor; eumelanin/pheomelanin pigment synthesis)
+Sanga / Zenga	7	8730947.0	9830947.0	1.1	12.75	11.01	None previously curated
+Sanga / Zenga	15	45970773.0	46970773.0	1.0	12.75	11.01	None previously curated
+Total Cohort	29	38249575.0	38749575.0	0.5	12.59	12.28	None previously curated
+African Zebu	3	54144539.0	54844539.0	0.7	12.55	11.49	None previously curated
+African Zebu	18	58458847.0	59358847.0	0.9	12.55	11.49	None previously curated
+African Zebu	5	76032329.0	77032329.0	1.0	12.55	11.49	None previously curated
+Sanga / Zenga	16	7307162.0	8007162.0	0.7	12.46	11.01	None previously curated
+Sanga / Zenga	21	28329987.0	29229987.0	0.9	12.46	11.01	None previously curated
+Total Cohort	11	61596844.0	61896844.0	0.3	12.39	12.28	None previously curated
+Total Cohort	7	8730947.0	9030947.0	0.3	12.28	12.28	None previously curated
+African Zebu	11	61396844.0	61996844.0	0.6	12.13	11.49	None previously curated
+African Zebu	5	56932329.0	57232329.0	0.3	11.7	11.49	None previously curated
+Sanga / Zenga	5	18032329.0	18332329.0	0.3	11.59	11.01	None previously curated
+Sanga / Zenga	16	6807162.0	7007162.0	0.2	11.59	11.01	None previously curated
+African Zebu	4	55482210.0	55682210.0	0.2	11.49	11.49	None previously curated
+Sanga / Zenga	4	54682210.0	55082210.0	0.4	11.3	11.01	None previously curated
+Sanga / Zenga	15	48270773.0	49070773.0	0.8	11.3	11.01	None previously curated
+Sanga / Zenga	27	6348893.0	7348893.0	1.0	11.3	11.01	None previously curated
